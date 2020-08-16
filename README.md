@@ -25,6 +25,12 @@
 <img align="left" alt="Npm" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/npm/npm.png" /> 
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/kotlin/kotlin.png" /> 
 
+<br />
+<br /> 
+
+#### Recent activity
+
+<!--START_SECTION:activity-->
 
 <br />
 <br /> 
@@ -36,11 +42,18 @@
 </a>
 
 <br />
-<br /> 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matej-ch&layout=compact&theme=vision-friendly-dark)](https://github.com/matej-ch/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-gamma.vercel.app/api/top-langs/?username=matej-ch&layout=compact&theme=vision-friendly-dark)](https://github.com/matej-ch/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/matejchalachan
 [website]: #
