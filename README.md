@@ -36,7 +36,7 @@
 <br />
 <br /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matej-ch&layout=compact)](https://github.com/matej-ch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matej-ch&layout=compact&theme=vision-friendly-dark)](https://github.com/matej-ch/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/matejchalachan
 [website]: #
