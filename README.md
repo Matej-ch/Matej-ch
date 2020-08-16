@@ -29,12 +29,16 @@
 <br />
 <br /> 
 
+### Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats-nine-gamma.vercel.app/api/?username=matej-ch&repo=github-readme-stats&show_icons=true&theme=vision-friendly-dark" />
 </a>
 
 <br />
 <br /> 
+
+### Most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matej-ch&layout=compact&theme=vision-friendly-dark)](https://github.com/matej-ch/github-readme-stats)
 
