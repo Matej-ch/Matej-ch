@@ -26,6 +26,17 @@
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/kotlin/kotlin.png" /> 
 
 
+<br />
+<br /> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-nine-gamma.vercel.app/api/?username=matej-ch&repo=github-readme-stats&show_icons=true&theme=vision-friendly-dark" />
+</a>
+
+<br />
+<br /> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matej-ch&layout=compact)](https://github.com/matej-ch/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/matejchalachan
 [website]: #
