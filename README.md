@@ -31,6 +31,12 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//Matej-ch/twenty-fourty-eight/pull/1) in [Matej-ch/twenty-fourty-eight](https://github.com//Matej-ch/twenty-fourty-eight)
+2. 💪 Opened PR [#1](https://github.com//Matej-ch/twenty-fourty-eight/pull/1) in [Matej-ch/twenty-fourty-eight](https://github.com//Matej-ch/twenty-fourty-eight)
+3. 🎉 Merged PR [#16](https://github.com//Matej-ch/Tier1-projects/pull/16) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+4. 🎉 Merged PR [#15](https://github.com//Matej-ch/Tier1-projects/pull/15) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+5. 🎉 Merged PR [#14](https://github.com//Matej-ch/Tier1-projects/pull/14) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+<!--END_SECTION:activity-->
 
 <br />
 <br /> 
