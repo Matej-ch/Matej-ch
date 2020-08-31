@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com//Matej-ch/button-generator/issues/8) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-2. ❗️ Closed issue [#3](https://github.com//Matej-ch/button-generator/issues/3) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-3. ❗️ Opened issue [#7](https://github.com//Matej-ch/button-generator/issues/7) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-4. ❗️ Opened issue [#6](https://github.com//Matej-ch/button-generator/issues/6) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-5. ❗️ Opened issue [#5](https://github.com//Matej-ch/button-generator/issues/5) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+1. 🎉 Merged PR [#27](https://github.com//Matej-ch/Tier1-projects/pull/27) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+2. 🎉 Merged PR [#26](https://github.com//Matej-ch/Tier1-projects/pull/26) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+3. 🎉 Merged PR [#24](https://github.com//Matej-ch/Tier1-projects/pull/24) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+4. 🎉 Merged PR [#23](https://github.com//Matej-ch/Tier1-projects/pull/23) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+5. 🎉 Merged PR [#21](https://github.com//Matej-ch/Minesweeper/pull/21) in [Matej-ch/Minesweeper](https://github.com//Matej-ch/Minesweeper)
 <!--END_SECTION:activity-->
 
 <br />
