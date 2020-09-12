@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com//Matej-ch/button-generator/issues/12) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-2. ❗️ Opened issue [#11](https://github.com//Matej-ch/button-generator/issues/11) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-3. ❗️ Closed issue [#1](https://github.com//Matej-ch/toggle-column/issues/1) in [Matej-ch/toggle-column](https://github.com//Matej-ch/toggle-column)
-4. ❗️ Opened issue [#1](https://github.com//Matej-ch/toggle-column/issues/1) in [Matej-ch/toggle-column](https://github.com//Matej-ch/toggle-column)
-5. ❗️ Closed issue [#5](https://github.com//Matej-ch/button-generator/issues/5) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+1. ❗️ Closed issue [#11](https://github.com//Matej-ch/button-generator/issues/11) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+2. ❗️ Opened issue [#12](https://github.com//Matej-ch/button-generator/issues/12) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+3. ❗️ Opened issue [#11](https://github.com//Matej-ch/button-generator/issues/11) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+4. ❗️ Closed issue [#1](https://github.com//Matej-ch/toggle-column/issues/1) in [Matej-ch/toggle-column](https://github.com//Matej-ch/toggle-column)
+5. ❗️ Opened issue [#1](https://github.com//Matej-ch/toggle-column/issues/1) in [Matej-ch/toggle-column](https://github.com//Matej-ch/toggle-column)
 <!--END_SECTION:activity-->
 
 <br />
