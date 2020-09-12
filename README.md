@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com//Matej-ch/button-generator/issues/5) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-2. ❗️ Closed issue [#4](https://github.com//Matej-ch/button-generator/issues/4) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-3. 🎉 Merged PR [#31](https://github.com//Matej-ch/Tier1-projects/pull/31) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
-4. 🎉 Merged PR [#30](https://github.com//Matej-ch/Tier1-projects/pull/30) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#29](https://github.com//Matej-ch/Tier1-projects/pull/29) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+1. ❗️ Closed issue [#1](https://github.com//Matej-ch/toggle-column/issues/1) in [Matej-ch/toggle-column](https://github.com//Matej-ch/toggle-column)
+2. ❗️ Opened issue [#1](https://github.com//Matej-ch/toggle-column/issues/1) in [Matej-ch/toggle-column](https://github.com//Matej-ch/toggle-column)
+3. ❗️ Closed issue [#5](https://github.com//Matej-ch/button-generator/issues/5) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+4. ❗️ Closed issue [#4](https://github.com//Matej-ch/button-generator/issues/4) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+5. 🎉 Merged PR [#31](https://github.com//Matej-ch/Tier1-projects/pull/31) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
 <!--END_SECTION:activity-->
 
 <br />
