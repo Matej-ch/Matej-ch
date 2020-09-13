@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com//Matej-ch/sidebar/pull/4) in [Matej-ch/sidebar](https://github.com//Matej-ch/sidebar)
-2. 🎉 Merged PR [#22](https://github.com//Matej-ch/editable-column/pull/22) in [Matej-ch/editable-column](https://github.com//Matej-ch/editable-column)
-3. 🎉 Merged PR [#4](https://github.com//Matej-ch/text-area-with-count/pull/4) in [Matej-ch/text-area-with-count](https://github.com//Matej-ch/text-area-with-count)
-4. ❗️ Closed issue [#11](https://github.com//Matej-ch/button-generator/issues/11) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-5. ❗️ Opened issue [#12](https://github.com//Matej-ch/button-generator/issues/12) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+1. 🗣 Commented on [#12](https://github.com//Matej-ch/button-generator/issues/12) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+2. 🎉 Merged PR [#4](https://github.com//Matej-ch/sidebar/pull/4) in [Matej-ch/sidebar](https://github.com//Matej-ch/sidebar)
+3. 🎉 Merged PR [#22](https://github.com//Matej-ch/editable-column/pull/22) in [Matej-ch/editable-column](https://github.com//Matej-ch/editable-column)
+4. 🎉 Merged PR [#4](https://github.com//Matej-ch/text-area-with-count/pull/4) in [Matej-ch/text-area-with-count](https://github.com//Matej-ch/text-area-with-count)
+5. ❗️ Closed issue [#11](https://github.com//Matej-ch/button-generator/issues/11) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
 <!--END_SECTION:activity-->
 
 <br />
