@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com//Matej-ch/button-generator/issues/12) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-2. 🗣 Commented on [#12](https://github.com//Matej-ch/button-generator/issues/12) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
-3. 🎉 Merged PR [#4](https://github.com//Matej-ch/sidebar/pull/4) in [Matej-ch/sidebar](https://github.com//Matej-ch/sidebar)
-4. 🎉 Merged PR [#22](https://github.com//Matej-ch/editable-column/pull/22) in [Matej-ch/editable-column](https://github.com//Matej-ch/editable-column)
-5. 🎉 Merged PR [#4](https://github.com//Matej-ch/text-area-with-count/pull/4) in [Matej-ch/text-area-with-count](https://github.com//Matej-ch/text-area-with-count)
+1. 🎉 Merged PR [#36](https://github.com//Matej-ch/Tier1-projects/pull/36) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+2. 🎉 Merged PR [#35](https://github.com//Matej-ch/Tier1-projects/pull/35) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+3. 🎉 Merged PR [#34](https://github.com//Matej-ch/Tier1-projects/pull/34) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+4. 🎉 Merged PR [#25](https://github.com//Matej-ch/Minesweeper/pull/25) in [Matej-ch/Minesweeper](https://github.com//Matej-ch/Minesweeper)
+5. 🎉 Merged PR [#33](https://github.com//Matej-ch/Tier1-projects/pull/33) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
 <!--END_SECTION:activity-->
 
 <br />
