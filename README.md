@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com//Matej-ch/Hexagons/pull/23) in [Matej-ch/Hexagons](https://github.com//Matej-ch/Hexagons)
-2. 🎉 Merged PR [#30](https://github.com//Matej-ch/Hexagons/pull/30) in [Matej-ch/Hexagons](https://github.com//Matej-ch/Hexagons)
-3. 🎉 Merged PR [#36](https://github.com//Matej-ch/Tier1-projects/pull/36) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
-4. 🎉 Merged PR [#35](https://github.com//Matej-ch/Tier1-projects/pull/35) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#34](https://github.com//Matej-ch/Tier1-projects/pull/34) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+1. ❗️ Closed issue [#8](https://github.com//Matej-ch/button-generator/issues/8) in [Matej-ch/button-generator](https://github.com//Matej-ch/button-generator)
+2. 🎉 Merged PR [#23](https://github.com//Matej-ch/Hexagons/pull/23) in [Matej-ch/Hexagons](https://github.com//Matej-ch/Hexagons)
+3. 🎉 Merged PR [#30](https://github.com//Matej-ch/Hexagons/pull/30) in [Matej-ch/Hexagons](https://github.com//Matej-ch/Hexagons)
+4. 🎉 Merged PR [#36](https://github.com//Matej-ch/Tier1-projects/pull/36) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
+5. 🎉 Merged PR [#35](https://github.com//Matej-ch/Tier1-projects/pull/35) in [Matej-ch/Tier1-projects](https://github.com//Matej-ch/Tier1-projects)
 <!--END_SECTION:activity-->
 
 <br />
