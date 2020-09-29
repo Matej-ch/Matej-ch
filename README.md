@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Matej-ch/gradient-generator/issues/6) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-2. ❗️ Opened issue [#5](https://github.com/Matej-ch/gradient-generator/issues/5) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-3. 🗣 Commented on [#4](https://github.com/Matej-ch/gradient-generator/issues/4) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-4. ❗️ Opened issue [#4](https://github.com/Matej-ch/gradient-generator/issues/4) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-5. ❗️ Opened issue [#3](https://github.com/Matej-ch/gradient-generator/issues/3) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+1. 🎉 Merged PR [#44](https://github.com/Matej-ch/Tier1-projects/pull/44) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+2. 🎉 Merged PR [#43](https://github.com/Matej-ch/Tier1-projects/pull/43) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+3. 🎉 Merged PR [#41](https://github.com/Matej-ch/Tier1-projects/pull/41) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+4. 🎉 Merged PR [#33](https://github.com/Matej-ch/Hexagons/pull/33) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+5. ❗️ Opened issue [#7](https://github.com/Matej-ch/gradient-generator/issues/7) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
 <!--END_SECTION:activity-->
 
 <br />
