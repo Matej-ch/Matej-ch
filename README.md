@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/Matej-ch/button-generator/issues/21) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-2. ❗️ Opened issue [#20](https://github.com/Matej-ch/button-generator/issues/20) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-3. ❗️ Closed issue [#19](https://github.com/Matej-ch/button-generator/issues/19) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-4. ❗️ Closed issue [#13](https://github.com/Matej-ch/button-generator/issues/13) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-5. ❗️ Opened issue [#19](https://github.com/Matej-ch/button-generator/issues/19) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+1. ❗️ Opened issue [#6](https://github.com/Matej-ch/gradient-generator/issues/6) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+2. ❗️ Opened issue [#5](https://github.com/Matej-ch/gradient-generator/issues/5) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+3. 🗣 Commented on [#4](https://github.com/Matej-ch/gradient-generator/issues/4) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+4. ❗️ Opened issue [#4](https://github.com/Matej-ch/gradient-generator/issues/4) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+5. ❗️ Opened issue [#3](https://github.com/Matej-ch/gradient-generator/issues/3) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
 <!--END_SECTION:activity-->
 
 <br />
