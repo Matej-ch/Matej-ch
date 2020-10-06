@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Matej-ch/gradient-generator/issues/5) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-2. ❗️ Closed issue [#2](https://github.com/Matej-ch/gradient-generator/issues/2) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-3. 🗣 Commented on [#6](https://github.com/Matej-ch/gradient-generator/issues/6) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-4. ❗️ Closed issue [#7](https://github.com/Matej-ch/gradient-generator/issues/7) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-5. 🎉 Merged PR [#44](https://github.com/Matej-ch/Tier1-projects/pull/44) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+1. 🎉 Merged PR [#45](https://github.com/Matej-ch/Tier1-projects/pull/45) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+2. 🎉 Merged PR [#26](https://github.com/Matej-ch/Minesweeper/pull/26) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+3. 🎉 Merged PR [#21](https://github.com/Matej-ch/pexeso-with-pictures/pull/21) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+4. 🎉 Merged PR [#28](https://github.com/Matej-ch/editable-column/pull/28) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+5. 🎉 Merged PR [#34](https://github.com/Matej-ch/Hexagons/pull/34) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
 <!--END_SECTION:activity-->
 
 <br />
