@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Matej-ch/toggle-column/issues/3) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
-2. ❗️ Closed issue [#2](https://github.com/Matej-ch/toggle-column/issues/2) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
-3. ❗️ Opened issue [#3](https://github.com/Matej-ch/toggle-column/issues/3) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
-4. ❗️ Opened issue [#2](https://github.com/Matej-ch/toggle-column/issues/2) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
-5. 🎉 Merged PR [#45](https://github.com/Matej-ch/Tier1-projects/pull/45) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+1. ❗️ Closed issue [#6](https://github.com/Matej-ch/gradient-generator/issues/6) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+2. ❗️ Closed issue [#3](https://github.com/Matej-ch/toggle-column/issues/3) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
+3. ❗️ Closed issue [#2](https://github.com/Matej-ch/toggle-column/issues/2) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
+4. ❗️ Opened issue [#3](https://github.com/Matej-ch/toggle-column/issues/3) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
+5. ❗️ Opened issue [#2](https://github.com/Matej-ch/toggle-column/issues/2) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
 <!--END_SECTION:activity-->
 
 <br />
