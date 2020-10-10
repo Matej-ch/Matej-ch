@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Matej-ch/gradient-generator/issues/4) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-2. ❗️ Closed issue [#6](https://github.com/Matej-ch/gradient-generator/issues/6) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-3. ❗️ Closed issue [#3](https://github.com/Matej-ch/toggle-column/issues/3) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
-4. ❗️ Closed issue [#2](https://github.com/Matej-ch/toggle-column/issues/2) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
-5. ❗️ Opened issue [#3](https://github.com/Matej-ch/toggle-column/issues/3) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
+1. ❗️ Closed issue [#3](https://github.com/Matej-ch/gradient-generator/issues/3) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+2. 🗣 Commented on [#3](https://github.com/Matej-ch/gradient-generator/issues/3) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+3. ❗️ Closed issue [#4](https://github.com/Matej-ch/gradient-generator/issues/4) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+4. ❗️ Closed issue [#6](https://github.com/Matej-ch/gradient-generator/issues/6) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+5. ❗️ Closed issue [#3](https://github.com/Matej-ch/toggle-column/issues/3) in [Matej-ch/toggle-column](https://github.com/Matej-ch/toggle-column)
 <!--END_SECTION:activity-->
 
 <br />
