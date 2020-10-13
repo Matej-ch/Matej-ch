@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Matej-ch/gradient-generator/issues/1) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-2. ❗️ Closed issue [#3](https://github.com/Matej-ch/gradient-generator/issues/3) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-3. 🗣 Commented on [#3](https://github.com/Matej-ch/gradient-generator/issues/3) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-4. ❗️ Closed issue [#4](https://github.com/Matej-ch/gradient-generator/issues/4) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-5. ❗️ Closed issue [#6](https://github.com/Matej-ch/gradient-generator/issues/6) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+1. 🎉 Merged PR [#23](https://github.com/Matej-ch/pexeso-with-pictures/pull/23) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+2. 🎉 Merged PR [#22](https://github.com/Matej-ch/pexeso-with-pictures/pull/22) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+3. 🎉 Merged PR [#38](https://github.com/Matej-ch/Hexagons/pull/38) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+4. 🎉 Merged PR [#36](https://github.com/Matej-ch/Hexagons/pull/36) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+5. 🎉 Merged PR [#35](https://github.com/Matej-ch/Hexagons/pull/35) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
 <!--END_SECTION:activity-->
 
 <br />
