@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/Matej-ch/Tier1-projects/pull/49) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-2. 🎉 Merged PR [#48](https://github.com/Matej-ch/Tier1-projects/pull/48) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-3. 🎉 Merged PR [#47](https://github.com/Matej-ch/Tier1-projects/pull/47) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-4. 🎉 Merged PR [#46](https://github.com/Matej-ch/Tier1-projects/pull/46) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#29](https://github.com/Matej-ch/Minesweeper/pull/29) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+1. ❗️ Opened issue [#3](https://github.com/Matej-ch/doodle-jump-clone/issues/3) in [Matej-ch/doodle-jump-clone](https://github.com/Matej-ch/doodle-jump-clone)
+2. ❗️ Opened issue [#2](https://github.com/Matej-ch/doodle-jump-clone/issues/2) in [Matej-ch/doodle-jump-clone](https://github.com/Matej-ch/doodle-jump-clone)
+3. ❗️ Opened issue [#1](https://github.com/Matej-ch/doodle-jump-clone/issues/1) in [Matej-ch/doodle-jump-clone](https://github.com/Matej-ch/doodle-jump-clone)
+4. 🎉 Merged PR [#49](https://github.com/Matej-ch/Tier1-projects/pull/49) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+5. 🎉 Merged PR [#48](https://github.com/Matej-ch/Tier1-projects/pull/48) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
 <!--END_SECTION:activity-->
 
 <br />
