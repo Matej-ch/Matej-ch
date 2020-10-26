@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/Matej-ch/Tier1-projects/pull/55) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-2. 🎉 Merged PR [#54](https://github.com/Matej-ch/Tier1-projects/pull/54) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-3. 🎉 Merged PR [#33](https://github.com/Matej-ch/editable-column/pull/33) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
-4. 🎉 Merged PR [#53](https://github.com/Matej-ch/Tier1-projects/pull/53) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#52](https://github.com/Matej-ch/Tier1-projects/pull/52) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+1. 🎉 Merged PR [#34](https://github.com/Matej-ch/editable-column/pull/34) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+2. 🎉 Merged PR [#40](https://github.com/Matej-ch/Hexagons/pull/40) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+3. 🎉 Merged PR [#55](https://github.com/Matej-ch/Tier1-projects/pull/55) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+4. 🎉 Merged PR [#54](https://github.com/Matej-ch/Tier1-projects/pull/54) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+5. 🎉 Merged PR [#33](https://github.com/Matej-ch/editable-column/pull/33) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
 <!--END_SECTION:activity-->
 
 <br />
