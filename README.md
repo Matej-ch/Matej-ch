@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/Matej-ch/Minesweeper/pull/46) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-2. 🎉 Merged PR [#37](https://github.com/Matej-ch/pexeso-with-pictures/pull/37) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-3. 🎉 Merged PR [#36](https://github.com/Matej-ch/pexeso-with-pictures/pull/36) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-4. 🎉 Merged PR [#84](https://github.com/Matej-ch/Tier1-projects/pull/84) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#54](https://github.com/Matej-ch/Hexagons/pull/54) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+1. 🎉 Merged PR [#53](https://github.com/Matej-ch/Hexagons/pull/53) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+2. 🎉 Merged PR [#82](https://github.com/Matej-ch/Tier1-projects/pull/82) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+3. 🎉 Merged PR [#80](https://github.com/Matej-ch/Tier1-projects/pull/80) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+4. 🎉 Merged PR [#47](https://github.com/Matej-ch/Minesweeper/pull/47) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+5. 🎉 Merged PR [#46](https://github.com/Matej-ch/Minesweeper/pull/46) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
 <!--END_SECTION:activity-->
 
 <br />
