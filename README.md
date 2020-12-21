@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/Matej-ch/Tier1-projects/pull/89) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-2. 🎉 Merged PR [#88](https://github.com/Matej-ch/Tier1-projects/pull/88) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-3. 🎉 Merged PR [#85](https://github.com/Matej-ch/Tier1-projects/pull/85) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-4. 🎉 Merged PR [#86](https://github.com/Matej-ch/Tier1-projects/pull/86) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#1](https://github.com/Matej-ch/packman-clone/pull/1) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+1. 🎉 Merged PR [#55](https://github.com/Matej-ch/Hexagons/pull/55) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+2. 🎉 Merged PR [#89](https://github.com/Matej-ch/Tier1-projects/pull/89) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+3. 🎉 Merged PR [#88](https://github.com/Matej-ch/Tier1-projects/pull/88) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+4. 🎉 Merged PR [#85](https://github.com/Matej-ch/Tier1-projects/pull/85) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+5. 🎉 Merged PR [#86](https://github.com/Matej-ch/Tier1-projects/pull/86) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
 <!--END_SECTION:activity-->
 
 <br />
