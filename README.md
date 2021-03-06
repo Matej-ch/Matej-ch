@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Matej-ch/react-small-projects/pull/18) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-2. 💪 Opened PR [#18](https://github.com/Matej-ch/react-small-projects/pull/18) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-3. ❗️ Opened issue [#17](https://github.com/Matej-ch/react-small-projects/issues/17) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-4. ❗️ Opened issue [#16](https://github.com/Matej-ch/react-small-projects/issues/16) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-5. ❗️ Opened issue [#15](https://github.com/Matej-ch/react-small-projects/issues/15) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+1. ❗️ Opened issue [#22](https://github.com/Matej-ch/react-small-projects/issues/22) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+2. ❗️ Opened issue [#21](https://github.com/Matej-ch/react-small-projects/issues/21) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+3. ❗️ Opened issue [#20](https://github.com/Matej-ch/react-small-projects/issues/20) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+4. ❗️ Opened issue [#19](https://github.com/Matej-ch/react-small-projects/issues/19) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+5. 🎉 Merged PR [#18](https://github.com/Matej-ch/react-small-projects/pull/18) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
 <!--END_SECTION:activity-->
 
 <br />
