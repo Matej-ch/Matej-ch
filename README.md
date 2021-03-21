@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/Matej-ch/react-small-projects/issues/11) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-2. ❗️ Closed issue [#6](https://github.com/Matej-ch/react-small-projects/issues/6) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-3. 🎉 Merged PR [#125](https://github.com/Matej-ch/Tier1-projects/pull/125) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-4. 🎉 Merged PR [#2](https://github.com/Matej-ch/packman-clone/pull/2) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
-5. 🎉 Merged PR [#66](https://github.com/Matej-ch/Minesweeper/pull/66) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+1. 🎉 Merged PR [#128](https://github.com/Matej-ch/Tier1-projects/pull/128) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+2. 🎉 Merged PR [#127](https://github.com/Matej-ch/Tier1-projects/pull/127) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+3. ❗️ Closed issue [#11](https://github.com/Matej-ch/react-small-projects/issues/11) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+4. ❗️ Closed issue [#6](https://github.com/Matej-ch/react-small-projects/issues/6) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+5. 🎉 Merged PR [#125](https://github.com/Matej-ch/Tier1-projects/pull/125) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
 <!--END_SECTION:activity-->
 
 <br />
