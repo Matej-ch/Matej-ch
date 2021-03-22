@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/Matej-ch/Tier1-projects/pull/128) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-2. 🎉 Merged PR [#127](https://github.com/Matej-ch/Tier1-projects/pull/127) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-3. ❗️ Closed issue [#11](https://github.com/Matej-ch/react-small-projects/issues/11) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-4. ❗️ Closed issue [#6](https://github.com/Matej-ch/react-small-projects/issues/6) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-5. 🎉 Merged PR [#125](https://github.com/Matej-ch/Tier1-projects/pull/125) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+1. 🎉 Merged PR [#68](https://github.com/Matej-ch/editable-column/pull/68) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+2. 🎉 Merged PR [#128](https://github.com/Matej-ch/Tier1-projects/pull/128) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+3. 🎉 Merged PR [#127](https://github.com/Matej-ch/Tier1-projects/pull/127) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+4. ❗️ Closed issue [#11](https://github.com/Matej-ch/react-small-projects/issues/11) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+5. ❗️ Closed issue [#6](https://github.com/Matej-ch/react-small-projects/issues/6) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
 <!--END_SECTION:activity-->
 
 <br />
