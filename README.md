@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/Spoje-NET/php-abraflexi/issues/11) in [Spoje-NET/php-abraflexi](https://github.com/Spoje-NET/php-abraflexi)
-2. 🎉 Merged PR [#59](https://github.com/Matej-ch/pexeso-with-pictures/pull/59) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-3. 🎉 Merged PR [#71](https://github.com/Matej-ch/editable-column/pull/71) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
-4. 🎉 Merged PR [#80](https://github.com/Matej-ch/Hexagons/pull/80) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-5. 🎉 Merged PR [#70](https://github.com/Matej-ch/editable-column/pull/70) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+1. 🎉 Merged PR [#131](https://github.com/Matej-ch/Tier1-projects/pull/131) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+2. 🎉 Merged PR [#70](https://github.com/Matej-ch/Minesweeper/pull/70) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+3. ❗️ Opened issue [#11](https://github.com/Spoje-NET/php-abraflexi/issues/11) in [Spoje-NET/php-abraflexi](https://github.com/Spoje-NET/php-abraflexi)
+4. 🎉 Merged PR [#59](https://github.com/Matej-ch/pexeso-with-pictures/pull/59) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+5. 🎉 Merged PR [#71](https://github.com/Matej-ch/editable-column/pull/71) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
 <!--END_SECTION:activity-->
 
 <br />
