@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Matej-ch/Autocomplete/pull/6) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
-2. 🎉 Merged PR [#7](https://github.com/Matej-ch/text-area-with-count/pull/7) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
-3. 🎉 Merged PR [#72](https://github.com/Matej-ch/editable-column/pull/72) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
-4. 🎉 Merged PR [#4](https://github.com/Matej-ch/star-rating/pull/4) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
-5. 🎉 Merged PR [#131](https://github.com/Matej-ch/Tier1-projects/pull/131) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+1. 🎉 Merged PR [#82](https://github.com/Matej-ch/Hexagons/pull/82) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+2. 🎉 Merged PR [#6](https://github.com/Matej-ch/Autocomplete/pull/6) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
+3. 🎉 Merged PR [#7](https://github.com/Matej-ch/text-area-with-count/pull/7) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+4. 🎉 Merged PR [#72](https://github.com/Matej-ch/editable-column/pull/72) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+5. 🎉 Merged PR [#4](https://github.com/Matej-ch/star-rating/pull/4) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
 <!--END_SECTION:activity-->
 
 <br />
