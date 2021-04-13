@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/Matej-ch/react-small-projects/issues/8) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-2. 🎉 Merged PR [#82](https://github.com/Matej-ch/Hexagons/pull/82) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-3. 🎉 Merged PR [#6](https://github.com/Matej-ch/Autocomplete/pull/6) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
-4. 🎉 Merged PR [#7](https://github.com/Matej-ch/text-area-with-count/pull/7) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
-5. 🎉 Merged PR [#72](https://github.com/Matej-ch/editable-column/pull/72) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+1. 🎉 Merged PR [#133](https://github.com/Matej-ch/Tier1-projects/pull/133) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+2. 🎉 Merged PR [#132](https://github.com/Matej-ch/Tier1-projects/pull/132) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+3. 🎉 Merged PR [#7](https://github.com/Matej-ch/Autocomplete/pull/7) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
+4. 🎉 Merged PR [#3](https://github.com/Matej-ch/packman-clone/pull/3) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+5. 🎉 Merged PR [#71](https://github.com/Matej-ch/Minesweeper/pull/71) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
 <!--END_SECTION:activity-->
 
 <br />
