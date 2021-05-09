@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/Matej-ch/editable-column/pull/77) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
-2. 🎉 Merged PR [#8](https://github.com/Matej-ch/text-area-with-count/pull/8) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
-3. 🎉 Merged PR [#5](https://github.com/Matej-ch/star-rating/pull/5) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
-4. 🎉 Merged PR [#138](https://github.com/Matej-ch/Tier1-projects/pull/138) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#75](https://github.com/Matej-ch/Minesweeper/pull/75) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+1. ❗️ Closed issue [#16](https://github.com/Matej-ch/react-small-projects/issues/16) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+2. 🗣 Commented on [#16](https://github.com/Matej-ch/react-small-projects/issues/16) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+3. 🎉 Merged PR [#77](https://github.com/Matej-ch/editable-column/pull/77) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+4. 🎉 Merged PR [#8](https://github.com/Matej-ch/text-area-with-count/pull/8) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+5. 🎉 Merged PR [#5](https://github.com/Matej-ch/star-rating/pull/5) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
 <!--END_SECTION:activity-->
 
 <br />
