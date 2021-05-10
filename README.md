@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/Matej-ch/react-small-projects/issues/16) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-2. 🎉 Merged PR [#8](https://github.com/Matej-ch/Autocomplete/pull/8) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
-3. ❗️ Reopened issue [#16](https://github.com/Matej-ch/react-small-projects/issues/16) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-4. ❗️ Closed issue [#16](https://github.com/Matej-ch/react-small-projects/issues/16) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-5. 🗣 Commented on [#16](https://github.com/Matej-ch/react-small-projects/issues/16) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+1. 🎉 Merged PR [#92](https://github.com/Matej-ch/Hexagons/pull/92) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+2. 🎉 Merged PR [#69](https://github.com/Matej-ch/pexeso-with-pictures/pull/69) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+3. ❗️ Closed issue [#16](https://github.com/Matej-ch/react-small-projects/issues/16) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+4. 🎉 Merged PR [#8](https://github.com/Matej-ch/Autocomplete/pull/8) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
+5. ❗️ Reopened issue [#16](https://github.com/Matej-ch/react-small-projects/issues/16) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
 <!--END_SECTION:activity-->
 
 <br />
