@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/Matej-ch/Minesweeper/pull/79) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-2. 🎉 Merged PR [#10](https://github.com/Matej-ch/text-area-with-count/pull/10) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
-3. 🎉 Merged PR [#81](https://github.com/Matej-ch/editable-column/pull/81) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
-4. 🎉 Merged PR [#144](https://github.com/Matej-ch/Tier1-projects/pull/144) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#148](https://github.com/Matej-ch/Tier1-projects/pull/148) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+1. 🎉 Merged PR [#6](https://github.com/Matej-ch/packman-clone/pull/6) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+2. 🎉 Merged PR [#95](https://github.com/Matej-ch/Hexagons/pull/95) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+3. 🎉 Merged PR [#76](https://github.com/Matej-ch/Minesweeper/pull/76) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+4. 🎉 Merged PR [#97](https://github.com/Matej-ch/Hexagons/pull/97) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+5. 🎉 Merged PR [#73](https://github.com/Matej-ch/pexeso-with-pictures/pull/73) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
 <!--END_SECTION:activity-->
 
 <br />
