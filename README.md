@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/Matej-ch/gradient-generator/issues/8) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-2. 🎉 Merged PR [#6](https://github.com/Matej-ch/packman-clone/pull/6) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
-3. 🎉 Merged PR [#95](https://github.com/Matej-ch/Hexagons/pull/95) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-4. 🎉 Merged PR [#76](https://github.com/Matej-ch/Minesweeper/pull/76) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-5. 🎉 Merged PR [#97](https://github.com/Matej-ch/Hexagons/pull/97) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+1. 🎉 Merged PR [#87](https://github.com/Matej-ch/Minesweeper/pull/87) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+2. 🎉 Merged PR [#9](https://github.com/Matej-ch/packman-clone/pull/9) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+3. ❗️ Opened issue [#8](https://github.com/Matej-ch/gradient-generator/issues/8) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+4. 🎉 Merged PR [#6](https://github.com/Matej-ch/packman-clone/pull/6) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+5. 🎉 Merged PR [#95](https://github.com/Matej-ch/Hexagons/pull/95) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
 <!--END_SECTION:activity-->
 
 <br />
