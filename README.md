@@ -31,11 +31,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Matej-ch/text-area-with-count/pull/13) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
-2. 🎉 Merged PR [#8](https://github.com/Matej-ch/packman-clone/pull/8) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
-3. 🎉 Merged PR [#13](https://github.com/Matej-ch/Autocomplete/pull/13) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
-4. 🎉 Merged PR [#86](https://github.com/Matej-ch/Minesweeper/pull/86) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-5. 🎉 Merged PR [#13](https://github.com/Matej-ch/sidebar/pull/13) in [Matej-ch/sidebar](https://github.com/Matej-ch/sidebar)
+1. 🎉 Merged PR [#88](https://github.com/Matej-ch/editable-column/pull/88) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+2. 🎉 Merged PR [#87](https://github.com/Matej-ch/editable-column/pull/87) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+3. 🎉 Merged PR [#86](https://github.com/Matej-ch/editable-column/pull/86) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+4. 🎉 Merged PR [#84](https://github.com/Matej-ch/editable-column/pull/84) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+5. 🎉 Merged PR [#83](https://github.com/Matej-ch/editable-column/pull/83) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
 <!--END_SECTION:activity-->
 
 <br />
