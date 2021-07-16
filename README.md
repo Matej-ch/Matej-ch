@@ -32,11 +32,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/Matej-ch/gradient-generator/issues/9) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-2. 🎉 Merged PR [#12](https://github.com/Matej-ch/sidebar/pull/12) in [Matej-ch/sidebar](https://github.com/Matej-ch/sidebar)
-3. 🎉 Merged PR [#10](https://github.com/Matej-ch/star-rating/pull/10) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
-4. 🎉 Merged PR [#4](https://github.com/Matej-ch/packman-clone/pull/4) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
-5. 🎉 Merged PR [#88](https://github.com/Matej-ch/editable-column/pull/88) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
+1. 🎉 Merged PR [#12](https://github.com/Matej-ch/Autocomplete/pull/12) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
+2. ❗️ Opened issue [#9](https://github.com/Matej-ch/gradient-generator/issues/9) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+3. 🎉 Merged PR [#12](https://github.com/Matej-ch/sidebar/pull/12) in [Matej-ch/sidebar](https://github.com/Matej-ch/sidebar)
+4. 🎉 Merged PR [#10](https://github.com/Matej-ch/star-rating/pull/10) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
+5. 🎉 Merged PR [#4](https://github.com/Matej-ch/packman-clone/pull/4) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
 <!--END_SECTION:activity-->
 
 <br />
