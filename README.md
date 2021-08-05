@@ -32,11 +32,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/Matej-ch/react-small-projects/issues/13) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-2. ❗️ Closed issue [#12](https://github.com/Matej-ch/react-small-projects/issues/12) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-3. 🎉 Merged PR [#8](https://github.com/Matej-ch/star-rating/pull/8) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
-4. 🎉 Merged PR [#71](https://github.com/Matej-ch/pexeso-with-pictures/pull/71) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-5. 🎉 Merged PR [#10](https://github.com/Matej-ch/Autocomplete/pull/10) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
+1. ❗️ Closed issue [#14](https://github.com/Matej-ch/react-small-projects/issues/14) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+2. ❗️ Closed issue [#13](https://github.com/Matej-ch/react-small-projects/issues/13) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+3. ❗️ Closed issue [#12](https://github.com/Matej-ch/react-small-projects/issues/12) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+4. 🎉 Merged PR [#8](https://github.com/Matej-ch/star-rating/pull/8) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
+5. 🎉 Merged PR [#71](https://github.com/Matej-ch/pexeso-with-pictures/pull/71) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
 <!--END_SECTION:activity-->
 
 <br />
