@@ -32,11 +32,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/Matej-ch/react-small-projects/issues/15) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-2. ❗️ Closed issue [#23](https://github.com/Matej-ch/react-small-projects/issues/23) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-3. ❗️ Closed issue [#24](https://github.com/Matej-ch/react-small-projects/issues/24) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-4. ❗️ Closed issue [#19](https://github.com/Matej-ch/react-small-projects/issues/19) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-5. 🗣 Commented on [#19](https://github.com/Matej-ch/react-small-projects/issues/19) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+1. ❗️ Closed issue [#7](https://github.com/Matej-ch/react-small-projects/issues/7) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+2. ❗️ Closed issue [#15](https://github.com/Matej-ch/react-small-projects/issues/15) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+3. ❗️ Closed issue [#23](https://github.com/Matej-ch/react-small-projects/issues/23) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+4. ❗️ Closed issue [#24](https://github.com/Matej-ch/react-small-projects/issues/24) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+5. ❗️ Closed issue [#19](https://github.com/Matej-ch/react-small-projects/issues/19) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
 <!--END_SECTION:activity-->
 
 <br />
