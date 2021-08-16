@@ -32,11 +32,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Matej-ch/Autocomplete/pull/11) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
-2. 🎉 Merged PR [#11](https://github.com/Matej-ch/text-area-with-count/pull/11) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
-3. ❗️ Closed issue [#3](https://github.com/Matej-ch/react-small-projects/issues/3) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-4. ❗️ Closed issue [#17](https://github.com/Matej-ch/react-small-projects/issues/17) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
-5. ❗️ Closed issue [#10](https://github.com/Matej-ch/react-small-projects/issues/10) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
+1. 🎉 Merged PR [#83](https://github.com/Matej-ch/Minesweeper/pull/83) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+2. 🎉 Merged PR [#72](https://github.com/Matej-ch/pexeso-with-pictures/pull/72) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+3. 🎉 Merged PR [#11](https://github.com/Matej-ch/Autocomplete/pull/11) in [Matej-ch/Autocomplete](https://github.com/Matej-ch/Autocomplete)
+4. 🎉 Merged PR [#11](https://github.com/Matej-ch/text-area-with-count/pull/11) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+5. ❗️ Closed issue [#3](https://github.com/Matej-ch/react-small-projects/issues/3) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
 <!--END_SECTION:activity-->
 
 <br />
