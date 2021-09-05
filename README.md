@@ -32,10 +32,10 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Matej-ch/portfolio/issues/2) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. ❗️ Opened issue [#1](https://github.com/Matej-ch/portfolio/issues/1) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. 🎉 Merged PR [#83](https://github.com/Matej-ch/Minesweeper/pull/83) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-4. 🎉 Merged PR [#11](https://github.com/Matej-ch/text-area-with-count/pull/11) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+1. ❗️ Closed issue [#2](https://github.com/Matej-ch/portfolio/issues/2) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. ❗️ Closed issue [#1](https://github.com/Matej-ch/portfolio/issues/1) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. ❗️ Opened issue [#2](https://github.com/Matej-ch/portfolio/issues/2) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. ❗️ Opened issue [#1](https://github.com/Matej-ch/portfolio/issues/1) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 5. ❗️ Closed issue [#3](https://github.com/Matej-ch/react-small-projects/issues/3) in [Matej-ch/react-small-projects](https://github.com/Matej-ch/react-small-projects)
 <!--END_SECTION:activity-->
 
