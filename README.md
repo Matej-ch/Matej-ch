@@ -32,11 +32,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/Matej-ch/shapes/issues/7) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
-2. ❗️ Opened issue [#6](https://github.com/Matej-ch/shapes/issues/6) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
-3. ❗️ Opened issue [#5](https://github.com/Matej-ch/shapes/issues/5) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
-4. 🗣 Commented on [#4](https://github.com/Matej-ch/shapes/issues/4) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
-5. ❗️ Opened issue [#4](https://github.com/Matej-ch/shapes/issues/4) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
+1. ❗️ Closed issue [#6](https://github.com/Matej-ch/shapes/issues/6) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
+2. ❗️ Closed issue [#3](https://github.com/Matej-ch/shapes/issues/3) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
+3. ❗️ Closed issue [#1](https://github.com/Matej-ch/shapes/issues/1) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
+4. 🗣 Commented on [#1](https://github.com/Matej-ch/shapes/issues/1) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
+5. ❗️ Opened issue [#7](https://github.com/Matej-ch/shapes/issues/7) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
 <!--END_SECTION:activity-->
 
 <br />
