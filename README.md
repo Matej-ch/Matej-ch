@@ -36,7 +36,7 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Matej-ch/shapes/issues/5) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
+1. ❗️ Opened issue [#3](https://github.com/Matej-ch/portfolio/issues/3) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 2. ❗️ Closed issue [#7](https://github.com/Matej-ch/shapes/issues/7) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
 3. ❗️ Closed issue [#4](https://github.com/Matej-ch/shapes/issues/4) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
 4. ❗️ Closed issue [#2](https://github.com/Matej-ch/shapes/issues/2) in [Matej-ch/shapes](https://github.com/Matej-ch/shapes)
