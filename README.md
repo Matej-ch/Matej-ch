@@ -36,11 +36,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/Matej-ch/todo-svelte/issues/5) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
-2. ❗️ Opened issue [#4](https://github.com/Matej-ch/todo-svelte/issues/4) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
-3. ❗️ Opened issue [#3](https://github.com/Matej-ch/todo-svelte/issues/3) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
-4. ❗️ Opened issue [#2](https://github.com/Matej-ch/todo-svelte/issues/2) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
-5. ❗️ Opened issue [#1](https://github.com/Matej-ch/todo-svelte/issues/1) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+1. ❗️ Opened issue [#96](https://github.com/Matej-ch/pexeso-with-pictures/issues/96) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+2. ❗️ Opened issue [#5](https://github.com/Matej-ch/todo-svelte/issues/5) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+3. ❗️ Opened issue [#4](https://github.com/Matej-ch/todo-svelte/issues/4) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+4. ❗️ Opened issue [#3](https://github.com/Matej-ch/todo-svelte/issues/3) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+5. ❗️ Opened issue [#2](https://github.com/Matej-ch/todo-svelte/issues/2) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
 <!--END_SECTION:activity-->
 
 <br />
