@@ -36,11 +36,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Matej-ch/gradient-generator/issues/9) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-2. ❗️ Opened issue [#11](https://github.com/Matej-ch/gradient-generator/issues/11) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-3. ❗️ Opened issue [#10](https://github.com/Matej-ch/gradient-generator/issues/10) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
-4. ❗️ Opened issue [#96](https://github.com/Matej-ch/pexeso-with-pictures/issues/96) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-5. ❗️ Opened issue [#5](https://github.com/Matej-ch/todo-svelte/issues/5) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+1. ❗️ Opened issue [#5](https://github.com/Matej-ch/portfolio/issues/5) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. 🗣 Commented on [#9](https://github.com/Matej-ch/gradient-generator/issues/9) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+3. ❗️ Opened issue [#11](https://github.com/Matej-ch/gradient-generator/issues/11) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+4. ❗️ Opened issue [#10](https://github.com/Matej-ch/gradient-generator/issues/10) in [Matej-ch/gradient-generator](https://github.com/Matej-ch/gradient-generator)
+5. ❗️ Opened issue [#96](https://github.com/Matej-ch/pexeso-with-pictures/issues/96) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
 <!--END_SECTION:activity-->
 
 <br />
