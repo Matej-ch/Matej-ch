@@ -36,11 +36,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Matej-ch/battleships-clone/issues/2) in [Matej-ch/battleships-clone](https://github.com/Matej-ch/battleships-clone)
-2. ❗️ Opened issue [#1](https://github.com/Matej-ch/battleships-clone/issues/1) in [Matej-ch/battleships-clone](https://github.com/Matej-ch/battleships-clone)
-3. ❗️ Opened issue [#2](https://github.com/Matej-ch/block-breaker/issues/2) in [Matej-ch/block-breaker](https://github.com/Matej-ch/block-breaker)
-4. ❗️ Opened issue [#1](https://github.com/Matej-ch/block-breaker/issues/1) in [Matej-ch/block-breaker](https://github.com/Matej-ch/block-breaker)
-5. ❗️ Opened issue [#7](https://github.com/Matej-ch/todo-svelte/issues/7) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+1. ❗️ Opened issue [#96](https://github.com/Matej-ch/Minesweeper/issues/96) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+2. ❗️ Opened issue [#2](https://github.com/Matej-ch/battleships-clone/issues/2) in [Matej-ch/battleships-clone](https://github.com/Matej-ch/battleships-clone)
+3. ❗️ Opened issue [#1](https://github.com/Matej-ch/battleships-clone/issues/1) in [Matej-ch/battleships-clone](https://github.com/Matej-ch/battleships-clone)
+4. ❗️ Opened issue [#2](https://github.com/Matej-ch/block-breaker/issues/2) in [Matej-ch/block-breaker](https://github.com/Matej-ch/block-breaker)
+5. ❗️ Opened issue [#1](https://github.com/Matej-ch/block-breaker/issues/1) in [Matej-ch/block-breaker](https://github.com/Matej-ch/block-breaker)
 <!--END_SECTION:activity-->
 
 <br />
