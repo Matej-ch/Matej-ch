@@ -36,7 +36,7 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Matej-ch/brick-breaker-canvas/issues/3) in [Matej-ch/brick-breaker-canvas](https://github.com/Matej-ch/brick-breaker-canvas)
+1. ❗️ Closed issue [#5](https://github.com/Matej-ch/portfolio/issues/5) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 2. ❗️ Opened issue [#2](https://github.com/Matej-ch/brick-breaker-canvas/issues/2) in [Matej-ch/brick-breaker-canvas](https://github.com/Matej-ch/brick-breaker-canvas)
 3. ❗️ Opened issue [#1](https://github.com/Matej-ch/brick-breaker-canvas/issues/1) in [Matej-ch/brick-breaker-canvas](https://github.com/Matej-ch/brick-breaker-canvas)
 4. ❗️ Opened issue [#96](https://github.com/Matej-ch/Minesweeper/issues/96) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
