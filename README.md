@@ -36,10 +36,10 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Matej-ch/portfolio/issues/5) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. ❗️ Opened issue [#2](https://github.com/Matej-ch/brick-breaker-canvas/issues/2) in [Matej-ch/brick-breaker-canvas](https://github.com/Matej-ch/brick-breaker-canvas)
-3. ❗️ Opened issue [#1](https://github.com/Matej-ch/brick-breaker-canvas/issues/1) in [Matej-ch/brick-breaker-canvas](https://github.com/Matej-ch/brick-breaker-canvas)
-4. ❗️ Opened issue [#96](https://github.com/Matej-ch/Minesweeper/issues/96) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+1. ❗️ Opened issue [#10](https://github.com/Matej-ch/todo-svelte/issues/10) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+2. ❗️ Opened issue [#9](https://github.com/Matej-ch/todo-svelte/issues/9) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+3. ❗️ Opened issue [#8](https://github.com/Matej-ch/todo-svelte/issues/8) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+4. ❗️ Closed issue [#5](https://github.com/Matej-ch/portfolio/issues/5) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 5. ❗️ Opened issue [#2](https://github.com/Matej-ch/battleships-clone/issues/2) in [Matej-ch/battleships-clone](https://github.com/Matej-ch/battleships-clone)
 <!--END_SECTION:activity-->
 
