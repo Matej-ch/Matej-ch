@@ -36,11 +36,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Matej-ch/todo-svelte/issues/6) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
-2. ❗️ Closed issue [#3](https://github.com/Matej-ch/todo-svelte/issues/3) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
-3. 🗣 Commented on [#3](https://github.com/Matej-ch/todo-svelte/issues/3) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
-4. ❗️ Closed issue [#6](https://github.com/Matej-ch/portfolio/issues/6) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-5. ❗️ Opened issue [#6](https://github.com/Matej-ch/portfolio/issues/6) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+1. ❗️ Closed issue [#9](https://github.com/Matej-ch/todo-svelte/issues/9) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+2. ❗️ Closed issue [#2](https://github.com/Matej-ch/todo-svelte/issues/2) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+3. ❗️ Closed issue [#6](https://github.com/Matej-ch/todo-svelte/issues/6) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+4. ❗️ Closed issue [#3](https://github.com/Matej-ch/todo-svelte/issues/3) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+5. 🗣 Commented on [#3](https://github.com/Matej-ch/todo-svelte/issues/3) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
 <!--END_SECTION:activity-->
 
 <br />
