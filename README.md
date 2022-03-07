@@ -36,8 +36,8 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Matej-ch/yii2-page-guide/issues/2) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-2. ❗️ Closed issue [#2](https://github.com/Matej-ch/todo-svelte/issues/2) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
+1. 🎉 Merged PR [#3](https://github.com/Matej-ch/yii2-page-guide/pull/3) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+2. 🗣 Commented on [#2](https://github.com/Matej-ch/yii2-page-guide/issues/2) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
 3. ❗️ Closed issue [#6](https://github.com/Matej-ch/todo-svelte/issues/6) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
 4. ❗️ Closed issue [#3](https://github.com/Matej-ch/todo-svelte/issues/3) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
 5. 🗣 Commented on [#3](https://github.com/Matej-ch/todo-svelte/issues/3) in [Matej-ch/todo-svelte](https://github.com/Matej-ch/todo-svelte)
