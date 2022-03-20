@@ -36,11 +36,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/Matej-ch/portfolio/issues/7) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. ❗️ Closed issue [#5](https://github.com/Matej-ch/yii2-page-guide/issues/5) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-3. ❗️ Closed issue [#4](https://github.com/Matej-ch/yii2-page-guide/issues/4) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-4. ❗️ Closed issue [#1](https://github.com/Matej-ch/yii2-page-guide/issues/1) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-5. 🎉 Merged PR [#2](https://github.com/Matej-ch/yii2-page-guide/pull/2) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+1. ❗️ Opened issue [#1](https://github.com/Matej-ch/linktree_clone/issues/1) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
+2. ❗️ Opened issue [#7](https://github.com/Matej-ch/portfolio/issues/7) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. ❗️ Closed issue [#5](https://github.com/Matej-ch/yii2-page-guide/issues/5) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+4. ❗️ Closed issue [#4](https://github.com/Matej-ch/yii2-page-guide/issues/4) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+5. ❗️ Closed issue [#1](https://github.com/Matej-ch/yii2-page-guide/issues/1) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
 <!--END_SECTION:activity-->
 
 <br />
