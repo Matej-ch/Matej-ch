@@ -36,11 +36,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/Matej-ch/linktree_clone/issues/8) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-2. ❗️ Closed issue [#5](https://github.com/Matej-ch/linktree_clone/issues/5) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-3. ❗️ Closed issue [#7](https://github.com/Matej-ch/linktree_clone/issues/7) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-4. ❗️ Closed issue [#4](https://github.com/Matej-ch/linktree_clone/issues/4) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-5. ❗️ Closed issue [#6](https://github.com/Matej-ch/linktree_clone/issues/6) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
+1. 🎉 Merged PR [#19](https://github.com/Matej-ch/packman-clone/pull/19) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+2. 🎉 Merged PR [#18](https://github.com/Matej-ch/packman-clone/pull/18) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+3. 🎉 Merged PR [#16](https://github.com/Matej-ch/packman-clone/pull/16) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+4. 🎉 Merged PR [#15](https://github.com/Matej-ch/packman-clone/pull/15) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+5. 🎉 Merged PR [#12](https://github.com/Matej-ch/packman-clone/pull/12) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
 <!--END_SECTION:activity-->
 
 <br />
