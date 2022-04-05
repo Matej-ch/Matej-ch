@@ -36,11 +36,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/Matej-ch/linktree_clone/issues/11) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-2. ❗️ Opened issue [#10](https://github.com/Matej-ch/linktree_clone/issues/10) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-3. ❗️ Opened issue [#9](https://github.com/Matej-ch/linktree_clone/issues/9) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-4. ❗️ Closed issue [#8](https://github.com/Matej-ch/linktree_clone/issues/8) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-5. 🎉 Merged PR [#19](https://github.com/Matej-ch/packman-clone/pull/19) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+1. ❗️ Opened issue [#8](https://github.com/Matej-ch/portfolio/issues/8) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. 🗣 Commented on [#7](https://github.com/Matej-ch/portfolio/issues/7) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. ❗️ Closed issue [#7](https://github.com/Matej-ch/portfolio/issues/7) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. 🎉 Merged PR [#12](https://github.com/Matej-ch/linktree_clone/pull/12) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
+5. ❗️ Closed issue [#9](https://github.com/Matej-ch/linktree_clone/issues/9) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
 <!--END_SECTION:activity-->
 
 <br />
