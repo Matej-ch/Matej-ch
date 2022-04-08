@@ -36,11 +36,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Matej-ch/yii2-iot24-meter/issues/1) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
-2. 🎉 Merged PR [#10](https://github.com/Matej-ch/portfolio/pull/10) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. ❗️ Closed issue [#9](https://github.com/Matej-ch/portfolio/issues/9) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-4. 💪 Opened PR [#10](https://github.com/Matej-ch/portfolio/pull/10) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-5. 🎉 Merged PR [#13](https://github.com/Matej-ch/linktree_clone/pull/13) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
+1. ❗️ Closed issue [#1](https://github.com/Matej-ch/yii2-iot24-meter/issues/1) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
+2. ❗️ Opened issue [#1](https://github.com/Matej-ch/yii2-iot24-meter/issues/1) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
+3. 🎉 Merged PR [#10](https://github.com/Matej-ch/portfolio/pull/10) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. ❗️ Closed issue [#9](https://github.com/Matej-ch/portfolio/issues/9) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+5. 💪 Opened PR [#10](https://github.com/Matej-ch/portfolio/pull/10) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 <!--END_SECTION:activity-->
 
 <br />
