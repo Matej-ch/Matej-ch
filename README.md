@@ -37,11 +37,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/Matej-ch/Hexagons/pull/120) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-2. 🎉 Merged PR [#106](https://github.com/Matej-ch/Hexagons/pull/106) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-3. 🎉 Merged PR [#103](https://github.com/Matej-ch/Hexagons/pull/103) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-4. 🎉 Merged PR [#99](https://github.com/Matej-ch/Hexagons/pull/99) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-5. ❗️ Opened issue [#1](https://github.com/Matej-ch/yii2-sidebar-collapsible/issues/1) in [Matej-ch/yii2-sidebar-collapsible](https://github.com/Matej-ch/yii2-sidebar-collapsible)
+1. 🎉 Merged PR [#153](https://github.com/Matej-ch/Hexagons/pull/153) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+2. 🎉 Merged PR [#149](https://github.com/Matej-ch/Hexagons/pull/149) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+3. 🎉 Merged PR [#145](https://github.com/Matej-ch/Hexagons/pull/145) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+4. 🎉 Merged PR [#141](https://github.com/Matej-ch/Hexagons/pull/141) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+5. 🎉 Merged PR [#120](https://github.com/Matej-ch/Hexagons/pull/120) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
 <!--END_SECTION:activity-->
 
 <br />
