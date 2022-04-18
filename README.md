@@ -37,11 +37,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/Matej-ch/linktree_clone/issues/11) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-2. 🎉 Merged PR [#14](https://github.com/Matej-ch/linktree_clone/pull/14) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-3. 💪 Opened PR [#14](https://github.com/Matej-ch/linktree_clone/pull/14) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-4. 🎉 Merged PR [#155](https://github.com/Matej-ch/Hexagons/pull/155) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-5. 🎉 Merged PR [#151](https://github.com/Matej-ch/Hexagons/pull/151) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+1. 🎉 Merged PR [#106](https://github.com/Matej-ch/pexeso-with-pictures/pull/106) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+2. 🎉 Merged PR [#104](https://github.com/Matej-ch/pexeso-with-pictures/pull/104) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+3. 🎉 Merged PR [#158](https://github.com/Matej-ch/Hexagons/pull/158) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+4. 🎉 Merged PR [#157](https://github.com/Matej-ch/Hexagons/pull/157) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+5. 🎉 Merged PR [#152](https://github.com/Matej-ch/Hexagons/pull/152) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
 <!--END_SECTION:activity-->
 
 <br />
