@@ -37,11 +37,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#106](https://github.com/Matej-ch/pexeso-with-pictures/pull/106) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-2. 🎉 Merged PR [#104](https://github.com/Matej-ch/pexeso-with-pictures/pull/104) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-3. 🎉 Merged PR [#158](https://github.com/Matej-ch/Hexagons/pull/158) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-4. 🎉 Merged PR [#157](https://github.com/Matej-ch/Hexagons/pull/157) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-5. 🎉 Merged PR [#152](https://github.com/Matej-ch/Hexagons/pull/152) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+1. ❗️ Opened issue [#5](https://github.com/Matej-ch/yii2-iot24-meter/issues/5) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
+2. ❗️ Opened issue [#4](https://github.com/Matej-ch/yii2-iot24-meter/issues/4) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
+3. ❗️ Opened issue [#3](https://github.com/Matej-ch/yii2-iot24-meter/issues/3) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
+4. ❗️ Opened issue [#2](https://github.com/Matej-ch/yii2-iot24-meter/issues/2) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
+5. 🎉 Merged PR [#106](https://github.com/Matej-ch/pexeso-with-pictures/pull/106) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
 <!--END_SECTION:activity-->
 
 <br />
