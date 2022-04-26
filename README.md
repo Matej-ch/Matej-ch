@@ -37,11 +37,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/Matej-ch/yii2-any-csv-loader/issues/16) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
-2. ❗️ Opened issue [#15](https://github.com/Matej-ch/yii2-any-csv-loader/issues/15) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
-3. ❗️ Opened issue [#14](https://github.com/Matej-ch/yii2-any-csv-loader/issues/14) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
-4. ❗️ Opened issue [#13](https://github.com/Matej-ch/yii2-any-csv-loader/issues/13) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
-5. ❗️ Opened issue [#12](https://github.com/Matej-ch/yii2-any-csv-loader/issues/12) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
+1. ❗️ Closed issue [#4](https://github.com/Matej-ch/portfolio/issues/4) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. ❗️ Opened issue [#16](https://github.com/Matej-ch/yii2-any-csv-loader/issues/16) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
+3. ❗️ Opened issue [#15](https://github.com/Matej-ch/yii2-any-csv-loader/issues/15) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
+4. ❗️ Opened issue [#14](https://github.com/Matej-ch/yii2-any-csv-loader/issues/14) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
+5. ❗️ Opened issue [#13](https://github.com/Matej-ch/yii2-any-csv-loader/issues/13) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
 <!--END_SECTION:activity-->
 
 <br />
