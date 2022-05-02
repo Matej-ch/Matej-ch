@@ -37,11 +37,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/Matej-ch/linktree_clone/issues/17) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-2. ❗️ Opened issue [#17](https://github.com/Matej-ch/linktree_clone/issues/17) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-3. ❗️ Opened issue [#16](https://github.com/Matej-ch/linktree_clone/issues/16) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-4. ❗️ Opened issue [#15](https://github.com/Matej-ch/linktree_clone/issues/15) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
-5. ❗️ Closed issue [#4](https://github.com/Matej-ch/portfolio/issues/4) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+1. ❗️ Closed issue [#15](https://github.com/Matej-ch/linktree_clone/issues/15) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
+2. ❗️ Closed issue [#16](https://github.com/Matej-ch/linktree_clone/issues/16) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
+3. ❗️ Closed issue [#17](https://github.com/Matej-ch/linktree_clone/issues/17) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
+4. ❗️ Opened issue [#17](https://github.com/Matej-ch/linktree_clone/issues/17) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
+5. ❗️ Opened issue [#16](https://github.com/Matej-ch/linktree_clone/issues/16) in [Matej-ch/linktree_clone](https://github.com/Matej-ch/linktree_clone)
 <!--END_SECTION:activity-->
 
 <br />
