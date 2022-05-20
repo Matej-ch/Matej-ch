@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/Matej-ch/pexeso-with-pictures/pull/112) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-2. 🎉 Merged PR [#117](https://github.com/Matej-ch/pexeso-with-pictures/pull/117) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-3. 🎉 Merged PR [#111](https://github.com/Matej-ch/pexeso-with-pictures/pull/111) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-4. 🎉 Merged PR [#109](https://github.com/Matej-ch/pexeso-with-pictures/pull/109) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-5. ❗️ Closed issue [#23](https://github.com/Matej-ch/yii2-any-csv-loader/issues/23) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
+1. ❗️ Closed issue [#12](https://github.com/Matej-ch/yii2-any-csv-loader/issues/12) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
+2. 🎉 Merged PR [#112](https://github.com/Matej-ch/pexeso-with-pictures/pull/112) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+3. 🎉 Merged PR [#117](https://github.com/Matej-ch/pexeso-with-pictures/pull/117) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+4. 🎉 Merged PR [#111](https://github.com/Matej-ch/pexeso-with-pictures/pull/111) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+5. 🎉 Merged PR [#109](https://github.com/Matej-ch/pexeso-with-pictures/pull/109) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
 <!--END_SECTION:activity-->
 
 <br />
