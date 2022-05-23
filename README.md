@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/Matej-ch/yii2-page-guide/issues/10) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-2. 🎉 Merged PR [#9](https://github.com/Matej-ch/yii2-page-guide/pull/9) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-3. 💪 Opened PR [#9](https://github.com/Matej-ch/yii2-page-guide/pull/9) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-4. ❗️ Closed issue [#12](https://github.com/Matej-ch/yii2-any-csv-loader/issues/12) in [Matej-ch/yii2-any-csv-loader](https://github.com/Matej-ch/yii2-any-csv-loader)
-5. 🎉 Merged PR [#112](https://github.com/Matej-ch/pexeso-with-pictures/pull/112) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+1. 🎉 Merged PR [#164](https://github.com/Matej-ch/Hexagons/pull/164) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+2. 🎉 Merged PR [#159](https://github.com/Matej-ch/Hexagons/pull/159) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+3. ❗️ Opened issue [#10](https://github.com/Matej-ch/yii2-page-guide/issues/10) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+4. 🎉 Merged PR [#9](https://github.com/Matej-ch/yii2-page-guide/pull/9) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+5. 💪 Opened PR [#9](https://github.com/Matej-ch/yii2-page-guide/pull/9) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
 <!--END_SECTION:activity-->
 
 <br />
