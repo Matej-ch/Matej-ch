@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#164](https://github.com/Matej-ch/Hexagons/pull/164) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-2. 🎉 Merged PR [#159](https://github.com/Matej-ch/Hexagons/pull/159) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-3. ❗️ Opened issue [#10](https://github.com/Matej-ch/yii2-page-guide/issues/10) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-4. 🎉 Merged PR [#9](https://github.com/Matej-ch/yii2-page-guide/pull/9) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-5. 💪 Opened PR [#9](https://github.com/Matej-ch/yii2-page-guide/pull/9) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+1. 🎉 Merged PR [#161](https://github.com/Matej-ch/Hexagons/pull/161) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+2. 🎉 Merged PR [#164](https://github.com/Matej-ch/Hexagons/pull/164) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+3. 🎉 Merged PR [#159](https://github.com/Matej-ch/Hexagons/pull/159) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+4. ❗️ Opened issue [#10](https://github.com/Matej-ch/yii2-page-guide/issues/10) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+5. 🎉 Merged PR [#9](https://github.com/Matej-ch/yii2-page-guide/pull/9) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
 <!--END_SECTION:activity-->
 
 <br />
