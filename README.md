@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Matej-ch/Video-Game-Aggregator/pull/13) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
-2. 🎉 Merged PR [#12](https://github.com/Matej-ch/Video-Game-Aggregator/pull/12) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
-3. 🎉 Merged PR [#11](https://github.com/Matej-ch/Video-Game-Aggregator/pull/11) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
-4. 🎉 Merged PR [#10](https://github.com/Matej-ch/Video-Game-Aggregator/pull/10) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
-5. 🎉 Merged PR [#7](https://github.com/Matej-ch/Video-Game-Aggregator/pull/7) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
+1. ❌ Closed PR [#166](https://github.com/Matej-ch/Hexagons/pull/166) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+2. ❌ Closed PR [#168](https://github.com/Matej-ch/Hexagons/pull/168) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+3. ❌ Closed PR [#165](https://github.com/Matej-ch/Hexagons/pull/165) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+4. ❌ Closed PR [#162](https://github.com/Matej-ch/Hexagons/pull/162) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+5. 🎉 Merged PR [#13](https://github.com/Matej-ch/Video-Game-Aggregator/pull/13) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
 <!--END_SECTION:activity-->
 
 <br />
