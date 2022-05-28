@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#122](https://github.com/Matej-ch/pexeso-with-pictures/pull/122) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-2. ❌ Closed PR [#121](https://github.com/Matej-ch/pexeso-with-pictures/pull/121) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-3. ❌ Closed PR [#120](https://github.com/Matej-ch/pexeso-with-pictures/pull/120) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-4. ❌ Closed PR [#119](https://github.com/Matej-ch/pexeso-with-pictures/pull/119) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-5. ❌ Closed PR [#166](https://github.com/Matej-ch/Hexagons/pull/166) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+1. ❌ Closed PR [#123](https://github.com/Matej-ch/pexeso-with-pictures/pull/123) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+2. ❌ Closed PR [#122](https://github.com/Matej-ch/pexeso-with-pictures/pull/122) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+3. ❌ Closed PR [#121](https://github.com/Matej-ch/pexeso-with-pictures/pull/121) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+4. ❌ Closed PR [#120](https://github.com/Matej-ch/pexeso-with-pictures/pull/120) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+5. ❌ Closed PR [#119](https://github.com/Matej-ch/pexeso-with-pictures/pull/119) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
 <!--END_SECTION:activity-->
 
 <br />
