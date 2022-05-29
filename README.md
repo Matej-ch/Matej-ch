@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#104](https://github.com/Matej-ch/Minesweeper/pull/104) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-2. ❌ Closed PR [#103](https://github.com/Matej-ch/Minesweeper/pull/103) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-3. ❌ Closed PR [#102](https://github.com/Matej-ch/Minesweeper/pull/102) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-4. ❌ Closed PR [#100](https://github.com/Matej-ch/Minesweeper/pull/100) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-5. ❌ Closed PR [#99](https://github.com/Matej-ch/Minesweeper/pull/99) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+1. ❗️ Closed issue [#105](https://github.com/Matej-ch/Minesweeper/issues/105) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+2. ❗️ Closed issue [#96](https://github.com/Matej-ch/Minesweeper/issues/96) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+3. ❌ Closed PR [#104](https://github.com/Matej-ch/Minesweeper/pull/104) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+4. ❌ Closed PR [#103](https://github.com/Matej-ch/Minesweeper/pull/103) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+5. ❌ Closed PR [#102](https://github.com/Matej-ch/Minesweeper/pull/102) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
 <!--END_SECTION:activity-->
 
 <br />
