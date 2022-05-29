@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#123](https://github.com/Matej-ch/pexeso-with-pictures/pull/123) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-2. ❌ Closed PR [#122](https://github.com/Matej-ch/pexeso-with-pictures/pull/122) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-3. ❌ Closed PR [#121](https://github.com/Matej-ch/pexeso-with-pictures/pull/121) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-4. ❌ Closed PR [#120](https://github.com/Matej-ch/pexeso-with-pictures/pull/120) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-5. ❌ Closed PR [#119](https://github.com/Matej-ch/pexeso-with-pictures/pull/119) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+1. ❌ Closed PR [#104](https://github.com/Matej-ch/Minesweeper/pull/104) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+2. ❌ Closed PR [#103](https://github.com/Matej-ch/Minesweeper/pull/103) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+3. ❌ Closed PR [#102](https://github.com/Matej-ch/Minesweeper/pull/102) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+4. ❌ Closed PR [#100](https://github.com/Matej-ch/Minesweeper/pull/100) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+5. ❌ Closed PR [#99](https://github.com/Matej-ch/Minesweeper/pull/99) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
 <!--END_SECTION:activity-->
 
 <br />
