@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Matej-ch/packman-clone/pull/21) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
-2. 🎉 Merged PR [#20](https://github.com/Matej-ch/packman-clone/pull/20) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
-3. ❗️ Closed issue [#105](https://github.com/Matej-ch/Minesweeper/issues/105) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-4. ❗️ Closed issue [#96](https://github.com/Matej-ch/Minesweeper/issues/96) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-5. ❌ Closed PR [#104](https://github.com/Matej-ch/Minesweeper/pull/104) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+1. ❗️ Opened issue [#106](https://github.com/Matej-ch/Minesweeper/issues/106) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+2. 🎉 Merged PR [#21](https://github.com/Matej-ch/packman-clone/pull/21) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+3. 🎉 Merged PR [#20](https://github.com/Matej-ch/packman-clone/pull/20) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
+4. ❗️ Closed issue [#105](https://github.com/Matej-ch/Minesweeper/issues/105) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+5. ❗️ Closed issue [#96](https://github.com/Matej-ch/Minesweeper/issues/96) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
 <!--END_SECTION:activity-->
 
 <br />
