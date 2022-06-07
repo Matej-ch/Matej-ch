@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#106](https://github.com/Matej-ch/Minesweeper/issues/106) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-2. 🎉 Merged PR [#21](https://github.com/Matej-ch/packman-clone/pull/21) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
-3. 🎉 Merged PR [#20](https://github.com/Matej-ch/packman-clone/pull/20) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
-4. ❗️ Closed issue [#105](https://github.com/Matej-ch/Minesweeper/issues/105) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-5. ❗️ Closed issue [#96](https://github.com/Matej-ch/Minesweeper/issues/96) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+1. 🎉 Merged PR [#215](https://github.com/Matej-ch/Tier1-projects/pull/215) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+2. 🎉 Merged PR [#214](https://github.com/Matej-ch/Tier1-projects/pull/214) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+3. 🎉 Merged PR [#173](https://github.com/Matej-ch/Tier1-projects/pull/173) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+4. 🎉 Merged PR [#169](https://github.com/Matej-ch/Tier1-projects/pull/169) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+5. ❗️ Opened issue [#106](https://github.com/Matej-ch/Minesweeper/issues/106) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
 <!--END_SECTION:activity-->
 
 <br />
