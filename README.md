@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com/Matej-ch/Tier1-projects/pull/215) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-2. 🎉 Merged PR [#214](https://github.com/Matej-ch/Tier1-projects/pull/214) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-3. 🎉 Merged PR [#173](https://github.com/Matej-ch/Tier1-projects/pull/173) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-4. 🎉 Merged PR [#169](https://github.com/Matej-ch/Tier1-projects/pull/169) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-5. ❗️ Opened issue [#106](https://github.com/Matej-ch/Minesweeper/issues/106) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+1. 🎉 Merged PR [#7](https://github.com/Matej-ch/stock-tracker/pull/7) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+2. 🎉 Merged PR [#6](https://github.com/Matej-ch/stock-tracker/pull/6) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+3. 🎉 Merged PR [#5](https://github.com/Matej-ch/stock-tracker/pull/5) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+4. 🎉 Merged PR [#4](https://github.com/Matej-ch/stock-tracker/pull/4) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+5. 🎉 Merged PR [#2](https://github.com/Matej-ch/stock-tracker/pull/2) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
 <!--END_SECTION:activity-->
 
 <br />
