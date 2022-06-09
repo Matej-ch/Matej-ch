@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Matej-ch/stock-tracker/pull/7) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-2. 🎉 Merged PR [#6](https://github.com/Matej-ch/stock-tracker/pull/6) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-3. 🎉 Merged PR [#5](https://github.com/Matej-ch/stock-tracker/pull/5) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-4. 🎉 Merged PR [#4](https://github.com/Matej-ch/stock-tracker/pull/4) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-5. 🎉 Merged PR [#2](https://github.com/Matej-ch/stock-tracker/pull/2) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+1. ❗️ Opened issue [#12](https://github.com/Matej-ch/yii2-page-guide/issues/12) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+2. 🎉 Merged PR [#11](https://github.com/Matej-ch/yii2-page-guide/pull/11) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+3. ❗️ Closed issue [#10](https://github.com/Matej-ch/yii2-page-guide/issues/10) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+4. 💪 Opened PR [#11](https://github.com/Matej-ch/yii2-page-guide/pull/11) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+5. 🎉 Merged PR [#7](https://github.com/Matej-ch/stock-tracker/pull/7) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
 <!--END_SECTION:activity-->
 
 <br />
