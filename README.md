@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/Matej-ch/yii2-page-guide/issues/12) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-2. 🎉 Merged PR [#11](https://github.com/Matej-ch/yii2-page-guide/pull/11) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-3. ❗️ Closed issue [#10](https://github.com/Matej-ch/yii2-page-guide/issues/10) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-4. 💪 Opened PR [#11](https://github.com/Matej-ch/yii2-page-guide/pull/11) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-5. 🎉 Merged PR [#7](https://github.com/Matej-ch/stock-tracker/pull/7) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+1. ❌ Closed PR [#20](https://github.com/Matej-ch/text-area-with-count/pull/20) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+2. ❌ Closed PR [#25](https://github.com/Matej-ch/text-area-with-count/pull/25) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+3. ❌ Closed PR [#17](https://github.com/Matej-ch/text-area-with-count/pull/17) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+4. ❌ Closed PR [#24](https://github.com/Matej-ch/text-area-with-count/pull/24) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+5. ❗️ Opened issue [#12](https://github.com/Matej-ch/yii2-page-guide/issues/12) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
 <!--END_SECTION:activity-->
 
 <br />
