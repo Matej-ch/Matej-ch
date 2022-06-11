@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/usablica/introjs-website/pull/146) in [usablica/introjs-website](https://github.com/usablica/introjs-website)
-2. ❌ Closed PR [#12](https://github.com/Matej-ch/star-rating/pull/12) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
-3. ❌ Closed PR [#11](https://github.com/Matej-ch/star-rating/pull/11) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
-4. ❌ Closed PR [#20](https://github.com/Matej-ch/text-area-with-count/pull/20) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
-5. ❌ Closed PR [#25](https://github.com/Matej-ch/text-area-with-count/pull/25) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+1. 🎉 Merged PR [#2](https://github.com/Matej-ch/yii2-sidebar-collapsible/pull/2) in [Matej-ch/yii2-sidebar-collapsible](https://github.com/Matej-ch/yii2-sidebar-collapsible)
+2. 💪 Opened PR [#2](https://github.com/Matej-ch/yii2-sidebar-collapsible/pull/2) in [Matej-ch/yii2-sidebar-collapsible](https://github.com/Matej-ch/yii2-sidebar-collapsible)
+3. 💪 Opened PR [#146](https://github.com/usablica/introjs-website/pull/146) in [usablica/introjs-website](https://github.com/usablica/introjs-website)
+4. ❌ Closed PR [#12](https://github.com/Matej-ch/star-rating/pull/12) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
+5. ❌ Closed PR [#11](https://github.com/Matej-ch/star-rating/pull/11) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
 <!--END_SECTION:activity-->
 
 <br />
