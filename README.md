@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Matej-ch/yii2-sidebar-collapsible/pull/2) in [Matej-ch/yii2-sidebar-collapsible](https://github.com/Matej-ch/yii2-sidebar-collapsible)
-2. 💪 Opened PR [#2](https://github.com/Matej-ch/yii2-sidebar-collapsible/pull/2) in [Matej-ch/yii2-sidebar-collapsible](https://github.com/Matej-ch/yii2-sidebar-collapsible)
-3. 💪 Opened PR [#146](https://github.com/usablica/introjs-website/pull/146) in [usablica/introjs-website](https://github.com/usablica/introjs-website)
-4. ❌ Closed PR [#12](https://github.com/Matej-ch/star-rating/pull/12) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
-5. ❌ Closed PR [#11](https://github.com/Matej-ch/star-rating/pull/11) in [Matej-ch/star-rating](https://github.com/Matej-ch/star-rating)
+1. ❗️ Closed issue [#2](https://github.com/Matej-ch/yii2-iot24-meter/issues/2) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
+2. ❗️ Closed issue [#4](https://github.com/Matej-ch/yii2-iot24-meter/issues/4) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
+3. ❗️ Closed issue [#3](https://github.com/Matej-ch/yii2-iot24-meter/issues/3) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
+4. 🎉 Merged PR [#2](https://github.com/Matej-ch/yii2-sidebar-collapsible/pull/2) in [Matej-ch/yii2-sidebar-collapsible](https://github.com/Matej-ch/yii2-sidebar-collapsible)
+5. 💪 Opened PR [#2](https://github.com/Matej-ch/yii2-sidebar-collapsible/pull/2) in [Matej-ch/yii2-sidebar-collapsible](https://github.com/Matej-ch/yii2-sidebar-collapsible)
 <!--END_SECTION:activity-->
 
 <br />
