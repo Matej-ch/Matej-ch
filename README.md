@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Matej-ch/yii2-iot24-meter/issues/2) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
-2. ❗️ Closed issue [#4](https://github.com/Matej-ch/yii2-iot24-meter/issues/4) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
-3. ❗️ Closed issue [#3](https://github.com/Matej-ch/yii2-iot24-meter/issues/3) in [Matej-ch/yii2-iot24-meter](https://github.com/Matej-ch/yii2-iot24-meter)
-4. 🎉 Merged PR [#2](https://github.com/Matej-ch/yii2-sidebar-collapsible/pull/2) in [Matej-ch/yii2-sidebar-collapsible](https://github.com/Matej-ch/yii2-sidebar-collapsible)
-5. 💪 Opened PR [#2](https://github.com/Matej-ch/yii2-sidebar-collapsible/pull/2) in [Matej-ch/yii2-sidebar-collapsible](https://github.com/Matej-ch/yii2-sidebar-collapsible)
+1. 🎉 Merged PR [#25](https://github.com/Matej-ch/Video-Game-Aggregator/pull/25) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
+2. 🎉 Merged PR [#23](https://github.com/Matej-ch/Video-Game-Aggregator/pull/23) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
+3. 🎉 Merged PR [#22](https://github.com/Matej-ch/Video-Game-Aggregator/pull/22) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
+4. 🎉 Merged PR [#21](https://github.com/Matej-ch/Video-Game-Aggregator/pull/21) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
+5. 🎉 Merged PR [#20](https://github.com/Matej-ch/Video-Game-Aggregator/pull/20) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
 <!--END_SECTION:activity-->
 
 <br />
