@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#226](https://github.com/Matej-ch/Tier1-projects/pull/226) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-2. 🎉 Merged PR [#225](https://github.com/Matej-ch/Tier1-projects/pull/225) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-3. 🎉 Merged PR [#224](https://github.com/Matej-ch/Tier1-projects/pull/224) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-4. 🎉 Merged PR [#223](https://github.com/Matej-ch/Tier1-projects/pull/223) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#222](https://github.com/Matej-ch/Tier1-projects/pull/222) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+1. 🎉 Merged PR [#229](https://github.com/Matej-ch/Tier1-projects/pull/229) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+2. 🎉 Merged PR [#228](https://github.com/Matej-ch/Tier1-projects/pull/228) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+3. 🎉 Merged PR [#227](https://github.com/Matej-ch/Tier1-projects/pull/227) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+4. 🎉 Merged PR [#29](https://github.com/Matej-ch/Video-Game-Aggregator/pull/29) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
+5. 🎉 Merged PR [#27](https://github.com/Matej-ch/Video-Game-Aggregator/pull/27) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
 <!--END_SECTION:activity-->
 
 <br />
