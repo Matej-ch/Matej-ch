@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Matej-ch/HtmlHelpers/issues/2) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
-2. ❗️ Opened issue [#1](https://github.com/Matej-ch/HtmlHelpers/issues/1) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
-3. 🎉 Merged PR [#30](https://github.com/Matej-ch/Video-Game-Aggregator/pull/30) in [Matej-ch/Video-Game-Aggregator](https://github.com/Matej-ch/Video-Game-Aggregator)
-4. 🎉 Merged PR [#229](https://github.com/Matej-ch/Tier1-projects/pull/229) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
-5. 🎉 Merged PR [#228](https://github.com/Matej-ch/Tier1-projects/pull/228) in [Matej-ch/Tier1-projects](https://github.com/Matej-ch/Tier1-projects)
+1. 🗣 Commented on [#2](https://github.com/Matej-ch/HtmlHelpers/issues/2) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
+2. ❗️ Closed issue [#2](https://github.com/Matej-ch/HtmlHelpers/issues/2) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
+3. ❗️ Closed issue [#1](https://github.com/Matej-ch/HtmlHelpers/issues/1) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
+4. ❗️ Opened issue [#2](https://github.com/Matej-ch/HtmlHelpers/issues/2) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
+5. ❗️ Opened issue [#1](https://github.com/Matej-ch/HtmlHelpers/issues/1) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
 <!--END_SECTION:activity-->
 
 <br />
