@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Matej-ch/HtmlHelpers/issues/2) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
-2. ❗️ Closed issue [#2](https://github.com/Matej-ch/HtmlHelpers/issues/2) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
-3. ❗️ Closed issue [#1](https://github.com/Matej-ch/HtmlHelpers/issues/1) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
-4. ❗️ Opened issue [#2](https://github.com/Matej-ch/HtmlHelpers/issues/2) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
-5. ❗️ Opened issue [#1](https://github.com/Matej-ch/HtmlHelpers/issues/1) in [Matej-ch/HtmlHelpers](https://github.com/Matej-ch/HtmlHelpers)
+1. ❌ Closed PR [#21](https://github.com/Matej-ch/autocomplete/pull/21) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
+2. ❌ Closed PR [#24](https://github.com/Matej-ch/autocomplete/pull/24) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
+3. ❌ Closed PR [#23](https://github.com/Matej-ch/autocomplete/pull/23) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
+4. ❌ Closed PR [#22](https://github.com/Matej-ch/autocomplete/pull/22) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
+5. ❌ Closed PR [#19](https://github.com/Matej-ch/autocomplete/pull/19) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
 <!--END_SECTION:activity-->
 
 <br />
