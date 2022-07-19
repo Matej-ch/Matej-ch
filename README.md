@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#92](https://github.com/Matej-ch/editable-form-elements/issues/92) in [Matej-ch/editable-form-elements](https://github.com/Matej-ch/editable-form-elements)
-2. ❗️ Closed issue [#93](https://github.com/Matej-ch/editable-form-elements/issues/93) in [Matej-ch/editable-form-elements](https://github.com/Matej-ch/editable-form-elements)
-3. ❗️ Opened issue [#93](https://github.com/Matej-ch/editable-column/issues/93) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
-4. ❗️ Opened issue [#92](https://github.com/Matej-ch/editable-column/issues/92) in [Matej-ch/editable-column](https://github.com/Matej-ch/editable-column)
-5. 🎉 Merged PR [#252](https://github.com/Matej-ch/vue-small-projects/pull/252) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+1. 🎉 Merged PR [#255](https://github.com/Matej-ch/vue-small-projects/pull/255) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+2. 🎉 Merged PR [#254](https://github.com/Matej-ch/vue-small-projects/pull/254) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+3. 🎉 Merged PR [#253](https://github.com/Matej-ch/vue-small-projects/pull/253) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+4. ❗️ Closed issue [#92](https://github.com/Matej-ch/editable-form-elements/issues/92) in [Matej-ch/editable-form-elements](https://github.com/Matej-ch/editable-form-elements)
+5. ❗️ Closed issue [#93](https://github.com/Matej-ch/editable-form-elements/issues/93) in [Matej-ch/editable-form-elements](https://github.com/Matej-ch/editable-form-elements)
 <!--END_SECTION:activity-->
 
 <br />
