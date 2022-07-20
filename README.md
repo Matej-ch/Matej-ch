@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Matej-ch/text-area-with-count/pull/28) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
-2. 🎉 Merged PR [#255](https://github.com/Matej-ch/vue-small-projects/pull/255) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-3. 🎉 Merged PR [#254](https://github.com/Matej-ch/vue-small-projects/pull/254) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-4. 🎉 Merged PR [#253](https://github.com/Matej-ch/vue-small-projects/pull/253) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-5. ❗️ Closed issue [#92](https://github.com/Matej-ch/editable-form-elements/issues/92) in [Matej-ch/editable-form-elements](https://github.com/Matej-ch/editable-form-elements)
+1. 💪 Opened PR [#156](https://github.com/usablica/introjs-website/pull/156) in [usablica/introjs-website](https://github.com/usablica/introjs-website)
+2. 💪 Opened PR [#288](https://github.com/bedezign/yii2-audit/pull/288) in [bedezign/yii2-audit](https://github.com/bedezign/yii2-audit)
+3. 🎉 Merged PR [#28](https://github.com/Matej-ch/text-area-with-count/pull/28) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+4. 🎉 Merged PR [#255](https://github.com/Matej-ch/vue-small-projects/pull/255) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+5. 🎉 Merged PR [#254](https://github.com/Matej-ch/vue-small-projects/pull/254) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
 <!--END_SECTION:activity-->
 
 <br />
