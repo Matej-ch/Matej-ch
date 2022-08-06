@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Matej-ch/packman-clone/pull/22) in [Matej-ch/packman-clone](https://github.com/Matej-ch/packman-clone)
-2. 🎉 Merged PR [#25](https://github.com/Matej-ch/autocomplete/pull/25) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
-3. 💪 Opened PR [#156](https://github.com/usablica/introjs-website/pull/156) in [usablica/introjs-website](https://github.com/usablica/introjs-website)
-4. 💪 Opened PR [#288](https://github.com/bedezign/yii2-audit/pull/288) in [bedezign/yii2-audit](https://github.com/bedezign/yii2-audit)
-5. 🎉 Merged PR [#28](https://github.com/Matej-ch/text-area-with-count/pull/28) in [Matej-ch/text-area-with-count](https://github.com/Matej-ch/text-area-with-count)
+1. ❗️ Opened issue [#26](https://github.com/Matej-ch/button-generator/issues/26) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+2. ❗️ Opened issue [#25](https://github.com/Matej-ch/button-generator/issues/25) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+3. ❗️ Opened issue [#24](https://github.com/Matej-ch/button-generator/issues/24) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+4. ❗️ Opened issue [#23](https://github.com/Matej-ch/button-generator/issues/23) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+5. ❗️ Opened issue [#22](https://github.com/Matej-ch/button-generator/issues/22) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
 <!--END_SECTION:activity-->
 
 <br />
