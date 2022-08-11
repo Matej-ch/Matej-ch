@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#259](https://github.com/Matej-ch/vue-small-projects/pull/259) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-2. 💪 Opened PR [#259](https://github.com/Matej-ch/vue-small-projects/pull/259) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-3. ❗️ Opened issue [#28](https://github.com/Matej-ch/button-generator/issues/28) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-4. 🎉 Merged PR [#27](https://github.com/Matej-ch/button-generator/pull/27) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-5. ❗️ Closed issue [#25](https://github.com/Matej-ch/button-generator/issues/25) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+1. 🎉 Merged PR [#260](https://github.com/Matej-ch/vue-small-projects/pull/260) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+2. 💪 Opened PR [#260](https://github.com/Matej-ch/vue-small-projects/pull/260) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+3. 🎉 Merged PR [#259](https://github.com/Matej-ch/vue-small-projects/pull/259) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+4. 💪 Opened PR [#259](https://github.com/Matej-ch/vue-small-projects/pull/259) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+5. ❗️ Opened issue [#28](https://github.com/Matej-ch/button-generator/issues/28) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
 <!--END_SECTION:activity-->
 
 <br />
