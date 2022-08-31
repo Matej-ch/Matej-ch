@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/Matej-ch/button-generator/issues/26) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-2. 🎉 Merged PR [#31](https://github.com/Matej-ch/button-generator/pull/31) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-3. 💪 Opened PR [#31](https://github.com/Matej-ch/button-generator/pull/31) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-4. ❗️ Closed issue [#28](https://github.com/Matej-ch/button-generator/issues/28) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-5. 🎉 Merged PR [#30](https://github.com/Matej-ch/button-generator/pull/30) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+1. ❗️ Closed issue [#267](https://github.com/Matej-ch/vue-small-projects/issues/267) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+2. 🎉 Merged PR [#107](https://github.com/Matej-ch/Minesweeper/pull/107) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+3. 🎉 Merged PR [#124](https://github.com/Matej-ch/pexeso-with-pictures/pull/124) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
+4. 🎉 Merged PR [#169](https://github.com/Matej-ch/Hexagons/pull/169) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+5. ❗️ Closed issue [#26](https://github.com/Matej-ch/button-generator/issues/26) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
 <!--END_SECTION:activity-->
 
 <br />
