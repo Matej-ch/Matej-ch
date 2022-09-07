@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#267](https://github.com/Matej-ch/vue-small-projects/issues/267) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-2. 🎉 Merged PR [#107](https://github.com/Matej-ch/Minesweeper/pull/107) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-3. 🎉 Merged PR [#124](https://github.com/Matej-ch/pexeso-with-pictures/pull/124) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-4. 🎉 Merged PR [#169](https://github.com/Matej-ch/Hexagons/pull/169) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
-5. ❗️ Closed issue [#26](https://github.com/Matej-ch/button-generator/issues/26) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+1. ❗️ Opened issue [#13](https://github.com/Matej-ch/portfolio/issues/13) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. ❗️ Opened issue [#12](https://github.com/Matej-ch/portfolio/issues/12) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. ❗️ Closed issue [#267](https://github.com/Matej-ch/vue-small-projects/issues/267) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+4. 🎉 Merged PR [#107](https://github.com/Matej-ch/Minesweeper/pull/107) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+5. 🎉 Merged PR [#124](https://github.com/Matej-ch/pexeso-with-pictures/pull/124) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
 <!--END_SECTION:activity-->
 
 <br />
