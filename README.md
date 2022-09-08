@@ -38,11 +38,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/Matej-ch/portfolio/issues/14) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. ❗️ Opened issue [#13](https://github.com/Matej-ch/portfolio/issues/13) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. ❗️ Opened issue [#12](https://github.com/Matej-ch/portfolio/issues/12) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-4. ❗️ Closed issue [#267](https://github.com/Matej-ch/vue-small-projects/issues/267) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-5. 🎉 Merged PR [#107](https://github.com/Matej-ch/Minesweeper/pull/107) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
+1. ❗️ Opened issue [#16](https://github.com/Matej-ch/portfolio/issues/16) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. ❗️ Opened issue [#15](https://github.com/Matej-ch/portfolio/issues/15) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. ❗️ Opened issue [#14](https://github.com/Matej-ch/portfolio/issues/14) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. ❗️ Opened issue [#13](https://github.com/Matej-ch/portfolio/issues/13) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+5. ❗️ Opened issue [#12](https://github.com/Matej-ch/portfolio/issues/12) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 <!--END_SECTION:activity-->
 
 <br />
