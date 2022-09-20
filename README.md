@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/Matej-ch/portfolio/issues/24) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. ❗️ Closed issue [#14](https://github.com/Matej-ch/portfolio/issues/14) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. 🎉 Merged PR [#23](https://github.com/Matej-ch/portfolio/pull/23) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-4. ❗️ Closed issue [#21](https://github.com/Matej-ch/portfolio/issues/21) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-5. ❗️ Closed issue [#22](https://github.com/Matej-ch/portfolio/issues/22) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+1. ❗️ Closed issue [#24](https://github.com/Matej-ch/portfolio/issues/24) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. ❗️ Opened issue [#24](https://github.com/Matej-ch/portfolio/issues/24) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. ❗️ Closed issue [#14](https://github.com/Matej-ch/portfolio/issues/14) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. 🎉 Merged PR [#23](https://github.com/Matej-ch/portfolio/pull/23) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+5. ❗️ Closed issue [#21](https://github.com/Matej-ch/portfolio/issues/21) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 <!--END_SECTION:activity-->
 
 <br />
