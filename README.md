@@ -42,10 +42,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13](https://github.com/Matej-ch/yii2-page-guide/issues/13) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-2. ❗️ Opened issue [#25](https://github.com/Matej-ch/portfolio/issues/25) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. ❗️ Closed issue [#24](https://github.com/Matej-ch/portfolio/issues/24) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-4. ❗️ Opened issue [#24](https://github.com/Matej-ch/portfolio/issues/24) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-5. ❗️ Closed issue [#14](https://github.com/Matej-ch/portfolio/issues/14) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. 🗣 Commented on [#13](https://github.com/Matej-ch/yii2-page-guide/issues/13) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+3. ❗️ Opened issue [#25](https://github.com/Matej-ch/portfolio/issues/25) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. ❗️ Closed issue [#24](https://github.com/Matej-ch/portfolio/issues/24) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+5. ❗️ Opened issue [#24](https://github.com/Matej-ch/portfolio/issues/24) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 <!--END_SECTION:activity-->
 
 <br />
