@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Matej-ch/yii2-page-guide/issues/13) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-2. 🗣 Commented on [#13](https://github.com/Matej-ch/yii2-page-guide/issues/13) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
-3. ❗️ Opened issue [#25](https://github.com/Matej-ch/portfolio/issues/25) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-4. ❗️ Closed issue [#24](https://github.com/Matej-ch/portfolio/issues/24) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-5. ❗️ Opened issue [#24](https://github.com/Matej-ch/portfolio/issues/24) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+1. 🎉 Merged PR [#26](https://github.com/Matej-ch/portfolio/pull/26) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. 💪 Opened PR [#26](https://github.com/Matej-ch/portfolio/pull/26) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. 🗣 Commented on [#13](https://github.com/Matej-ch/yii2-page-guide/issues/13) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+4. 🗣 Commented on [#13](https://github.com/Matej-ch/yii2-page-guide/issues/13) in [Matej-ch/yii2-page-guide](https://github.com/Matej-ch/yii2-page-guide)
+5. ❗️ Opened issue [#25](https://github.com/Matej-ch/portfolio/issues/25) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 <!--END_SECTION:activity-->
 
 <br />
