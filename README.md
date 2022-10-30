@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/Matej-ch/portfolio/issues/34) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. ❗️ Closed issue [#33](https://github.com/Matej-ch/portfolio/issues/33) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. ❗️ Opened issue [#33](https://github.com/Matej-ch/portfolio/issues/33) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-4. ❗️ Opened issue [#20](https://github.com/Matej-ch/linktree-clone/issues/20) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
-5. ❗️ Opened issue [#19](https://github.com/Matej-ch/linktree-clone/issues/19) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
+1. 🎉 Merged PR [#270](https://github.com/Matej-ch/vue-small-projects/pull/270) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+2. 🎉 Merged PR [#271](https://github.com/Matej-ch/vue-small-projects/pull/271) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+3. ❗️ Opened issue [#34](https://github.com/Matej-ch/portfolio/issues/34) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. ❗️ Closed issue [#33](https://github.com/Matej-ch/portfolio/issues/33) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+5. ❗️ Opened issue [#33](https://github.com/Matej-ch/portfolio/issues/33) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 <!--END_SECTION:activity-->
 
 <br />
