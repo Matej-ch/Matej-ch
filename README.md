@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Matej-ch/fractals/pull/4) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-2. ❗️ Opened issue [#35](https://github.com/Matej-ch/portfolio/issues/35) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. 🎉 Merged PR [#270](https://github.com/Matej-ch/vue-small-projects/pull/270) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-4. 🎉 Merged PR [#271](https://github.com/Matej-ch/vue-small-projects/pull/271) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-5. ❗️ Opened issue [#34](https://github.com/Matej-ch/portfolio/issues/34) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+1. ❗️ Opened issue [#34](https://github.com/Matej-ch/button-generator/issues/34) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+2. ❗️ Opened issue [#33](https://github.com/Matej-ch/button-generator/issues/33) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+3. ❗️ Opened issue [#32](https://github.com/Matej-ch/button-generator/issues/32) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+4. 🎉 Merged PR [#4](https://github.com/Matej-ch/fractals/pull/4) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+5. ❗️ Opened issue [#35](https://github.com/Matej-ch/portfolio/issues/35) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 <!--END_SECTION:activity-->
 
 <br />
