@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/Matej-ch/button-generator/issues/36) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-2. ❗️ Opened issue [#35](https://github.com/Matej-ch/button-generator/issues/35) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-3. ❗️ Opened issue [#34](https://github.com/Matej-ch/button-generator/issues/34) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-4. ❗️ Opened issue [#33](https://github.com/Matej-ch/button-generator/issues/33) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
-5. ❗️ Opened issue [#32](https://github.com/Matej-ch/button-generator/issues/32) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+1. ❗️ Closed issue [#34](https://github.com/Matej-ch/portfolio/issues/34) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. 🗣 Commented on [#34](https://github.com/Matej-ch/portfolio/issues/34) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. ❗️ Opened issue [#36](https://github.com/Matej-ch/button-generator/issues/36) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+4. ❗️ Opened issue [#35](https://github.com/Matej-ch/button-generator/issues/35) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+5. ❗️ Opened issue [#34](https://github.com/Matej-ch/button-generator/issues/34) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
 <!--END_SECTION:activity-->
 
 <br />
