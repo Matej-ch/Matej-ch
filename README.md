@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#35](https://github.com/Matej-ch/portfolio/issues/35) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. 🗣 Commented on [#35](https://github.com/Matej-ch/portfolio/issues/35) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. ❗️ Closed issue [#34](https://github.com/Matej-ch/portfolio/issues/34) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-4. 🗣 Commented on [#34](https://github.com/Matej-ch/portfolio/issues/34) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-5. ❗️ Opened issue [#36](https://github.com/Matej-ch/button-generator/issues/36) in [Matej-ch/button-generator](https://github.com/Matej-ch/button-generator)
+1. 🎉 Merged PR [#21](https://github.com/Matej-ch/linktree-clone/pull/21) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
+2. 💪 Opened PR [#21](https://github.com/Matej-ch/linktree-clone/pull/21) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
+3. ❗️ Closed issue [#35](https://github.com/Matej-ch/portfolio/issues/35) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. 🗣 Commented on [#35](https://github.com/Matej-ch/portfolio/issues/35) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+5. ❗️ Closed issue [#34](https://github.com/Matej-ch/portfolio/issues/34) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 <!--END_SECTION:activity-->
 
 <br />
