@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/Matej-ch/linktree-clone/issues/18) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
-2. 🎉 Merged PR [#22](https://github.com/Matej-ch/linktree-clone/pull/22) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
-3. 💪 Opened PR [#22](https://github.com/Matej-ch/linktree-clone/pull/22) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
-4. 🎉 Merged PR [#21](https://github.com/Matej-ch/linktree-clone/pull/21) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
-5. 💪 Opened PR [#21](https://github.com/Matej-ch/linktree-clone/pull/21) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
+1. ❗️ Closed issue [#19](https://github.com/Matej-ch/linktree-clone/issues/19) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
+2. 🎉 Merged PR [#23](https://github.com/Matej-ch/linktree-clone/pull/23) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
+3. 💪 Opened PR [#23](https://github.com/Matej-ch/linktree-clone/pull/23) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
+4. ❗️ Closed issue [#18](https://github.com/Matej-ch/linktree-clone/issues/18) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
+5. 🎉 Merged PR [#22](https://github.com/Matej-ch/linktree-clone/pull/22) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
 <!--END_SECTION:activity-->
 
 <br />
