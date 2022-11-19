@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/Matej-ch/portfolio/pull/38) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. 💪 Opened PR [#38](https://github.com/Matej-ch/portfolio/pull/38) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. ❗️ Closed issue [#20](https://github.com/Matej-ch/linktree-clone/issues/20) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
-4. 🎉 Merged PR [#7](https://github.com/Matej-ch/fractals/pull/7) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-5. 🎉 Merged PR [#27](https://github.com/Matej-ch/autocomplete/pull/27) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
+1. ❗️ Opened issue [#39](https://github.com/Matej-ch/portfolio/issues/39) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. ❗️ Opened issue [#26](https://github.com/Matej-ch/linktree-clone/issues/26) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
+3. 🎉 Merged PR [#38](https://github.com/Matej-ch/portfolio/pull/38) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. 💪 Opened PR [#38](https://github.com/Matej-ch/portfolio/pull/38) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+5. ❗️ Closed issue [#20](https://github.com/Matej-ch/linktree-clone/issues/20) in [Matej-ch/linktree-clone](https://github.com/Matej-ch/linktree-clone)
 <!--END_SECTION:activity-->
 
 <br />
