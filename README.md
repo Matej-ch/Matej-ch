@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/Matej-ch/portfolio/issues/44) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. ❗️ Opened issue [#44](https://github.com/Matej-ch/portfolio/issues/44) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-3. ❗️ Opened issue [#43](https://github.com/Matej-ch/portfolio/issues/43) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-4. ❗️ Opened issue [#42](https://github.com/Matej-ch/portfolio/issues/42) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-5. ❗️ Opened issue [#41](https://github.com/Matej-ch/portfolio/issues/41) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+1. 🎉 Merged PR [#8](https://github.com/Matej-ch/fractals/pull/8) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+2. 🗣 Commented on [#44](https://github.com/Matej-ch/portfolio/issues/44) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. ❗️ Opened issue [#44](https://github.com/Matej-ch/portfolio/issues/44) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+4. ❗️ Opened issue [#43](https://github.com/Matej-ch/portfolio/issues/43) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+5. ❗️ Opened issue [#42](https://github.com/Matej-ch/portfolio/issues/42) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
 <!--END_SECTION:activity-->
 
 <br />
