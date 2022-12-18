@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#294](https://github.com/Matej-ch/vue-small-projects/pull/294) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-2. 💪 Opened PR [#294](https://github.com/Matej-ch/vue-small-projects/pull/294) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-3. 🎉 Merged PR [#293](https://github.com/Matej-ch/vue-small-projects/pull/293) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-4. 💪 Opened PR [#293](https://github.com/Matej-ch/vue-small-projects/pull/293) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-5. 🎉 Merged PR [#292](https://github.com/Matej-ch/vue-small-projects/pull/292) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+1. 🎉 Merged PR [#295](https://github.com/Matej-ch/vue-small-projects/pull/295) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+2. 💪 Opened PR [#295](https://github.com/Matej-ch/vue-small-projects/pull/295) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+3. 🎉 Merged PR [#294](https://github.com/Matej-ch/vue-small-projects/pull/294) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+4. 💪 Opened PR [#294](https://github.com/Matej-ch/vue-small-projects/pull/294) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+5. 🎉 Merged PR [#293](https://github.com/Matej-ch/vue-small-projects/pull/293) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
 <!--END_SECTION:activity-->
 
 <br />
