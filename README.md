@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/Matej-ch/stock-tracker/pull/35) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-2. ❗️ Closed issue [#28](https://github.com/Matej-ch/autocomplete/issues/28) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
-3. 🎉 Merged PR [#29](https://github.com/Matej-ch/autocomplete/pull/29) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
-4. 🎉 Merged PR [#45](https://github.com/Matej-ch/video-game-aggregator/pull/45) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
-5. 🎉 Merged PR [#44](https://github.com/Matej-ch/video-game-aggregator/pull/44) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
+1. 🎉 Merged PR [#297](https://github.com/Matej-ch/vue-small-projects/pull/297) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+2. 💪 Opened PR [#297](https://github.com/Matej-ch/vue-small-projects/pull/297) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+3. 🎉 Merged PR [#35](https://github.com/Matej-ch/stock-tracker/pull/35) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+4. ❗️ Closed issue [#28](https://github.com/Matej-ch/autocomplete/issues/28) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
+5. 🎉 Merged PR [#29](https://github.com/Matej-ch/autocomplete/pull/29) in [Matej-ch/autocomplete](https://github.com/Matej-ch/autocomplete)
 <!--END_SECTION:activity-->
 
 <br />
