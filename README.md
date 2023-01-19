@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#300](https://github.com/Matej-ch/vue-small-projects/pull/300) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-2. 🎉 Merged PR [#48](https://github.com/Matej-ch/video-game-aggregator/pull/48) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
-3. 🎉 Merged PR [#47](https://github.com/Matej-ch/video-game-aggregator/pull/47) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
-4. 🎉 Merged PR [#46](https://github.com/Matej-ch/video-game-aggregator/pull/46) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
-5. 🎉 Merged PR [#11](https://github.com/Matej-ch/fractals/pull/11) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+1. 🎉 Merged PR [#12](https://github.com/Matej-ch/fractals/pull/12) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+2. 🎉 Merged PR [#300](https://github.com/Matej-ch/vue-small-projects/pull/300) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+3. 🎉 Merged PR [#48](https://github.com/Matej-ch/video-game-aggregator/pull/48) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
+4. 🎉 Merged PR [#47](https://github.com/Matej-ch/video-game-aggregator/pull/47) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
+5. 🎉 Merged PR [#46](https://github.com/Matej-ch/video-game-aggregator/pull/46) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
 <!--END_SECTION:activity-->
 
 <br />
