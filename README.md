@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Matej-ch/fractals/pull/13) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-2. 🎉 Merged PR [#1](https://github.com/Matej-ch/be-riesenie/pull/1) in [Matej-ch/be-riesenie](https://github.com/Matej-ch/be-riesenie)
-3. 💪 Opened PR [#1](https://github.com/Matej-ch/be-riesenie/pull/1) in [Matej-ch/be-riesenie](https://github.com/Matej-ch/be-riesenie)
-4. 🎉 Merged PR [#12](https://github.com/Matej-ch/fractals/pull/12) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-5. 🎉 Merged PR [#300](https://github.com/Matej-ch/vue-small-projects/pull/300) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+1. 🎉 Merged PR [#47](https://github.com/Matej-ch/portfolio/pull/47) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+2. 💪 Opened PR [#47](https://github.com/Matej-ch/portfolio/pull/47) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. 🎉 Merged PR [#13](https://github.com/Matej-ch/fractals/pull/13) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+4. 🎉 Merged PR [#1](https://github.com/Matej-ch/be-riesenie/pull/1) in [Matej-ch/be-riesenie](https://github.com/Matej-ch/be-riesenie)
+5. 💪 Opened PR [#1](https://github.com/Matej-ch/be-riesenie/pull/1) in [Matej-ch/be-riesenie](https://github.com/Matej-ch/be-riesenie)
 <!--END_SECTION:activity-->
 
 <br />
