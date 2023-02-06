@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/Matej-ch/stock-tracker/pull/42) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-2. 🎉 Merged PR [#43](https://github.com/Matej-ch/stock-tracker/pull/43) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-3. 🎉 Merged PR [#45](https://github.com/Matej-ch/stock-tracker/pull/45) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-4. 🎉 Merged PR [#46](https://github.com/Matej-ch/stock-tracker/pull/46) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-5. 🎉 Merged PR [#41](https://github.com/Matej-ch/stock-tracker/pull/41) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+1. 🎉 Merged PR [#38](https://github.com/Matej-ch/stock-tracker/pull/38) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+2. 🎉 Merged PR [#42](https://github.com/Matej-ch/stock-tracker/pull/42) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+3. 🎉 Merged PR [#43](https://github.com/Matej-ch/stock-tracker/pull/43) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+4. 🎉 Merged PR [#45](https://github.com/Matej-ch/stock-tracker/pull/45) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+5. 🎉 Merged PR [#46](https://github.com/Matej-ch/stock-tracker/pull/46) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
 <!--END_SECTION:activity-->
 
 <br />
