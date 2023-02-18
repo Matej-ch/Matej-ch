@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Matej-ch/fractals/pull/16) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-2. 🎉 Merged PR [#49](https://github.com/Matej-ch/video-game-aggregator/pull/49) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
-3. 🎉 Merged PR [#54](https://github.com/Matej-ch/stock-tracker/pull/54) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-4. 🎉 Merged PR [#53](https://github.com/Matej-ch/stock-tracker/pull/53) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
-5. ❗️ Opened issue [#48](https://github.com/Matej-ch/portfolio/issues/48) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+1. 🎉 Merged PR [#301](https://github.com/Matej-ch/vue-small-projects/pull/301) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+2. 🎉 Merged PR [#16](https://github.com/Matej-ch/fractals/pull/16) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+3. 🎉 Merged PR [#49](https://github.com/Matej-ch/video-game-aggregator/pull/49) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
+4. 🎉 Merged PR [#54](https://github.com/Matej-ch/stock-tracker/pull/54) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+5. 🎉 Merged PR [#53](https://github.com/Matej-ch/stock-tracker/pull/53) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
 <!--END_SECTION:activity-->
 
 <br />
