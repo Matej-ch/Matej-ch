@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/Matej-ch/portfolio/issues/49) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-2. 🎉 Merged PR [#301](https://github.com/Matej-ch/vue-small-projects/pull/301) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-3. 🎉 Merged PR [#16](https://github.com/Matej-ch/fractals/pull/16) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-4. 🎉 Merged PR [#49](https://github.com/Matej-ch/video-game-aggregator/pull/49) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
-5. 🎉 Merged PR [#54](https://github.com/Matej-ch/stock-tracker/pull/54) in [Matej-ch/stock-tracker](https://github.com/Matej-ch/stock-tracker)
+1. ❗️ Opened issue [#94](https://github.com/Matej-ch/editable-form-elements/issues/94) in [Matej-ch/editable-form-elements](https://github.com/Matej-ch/editable-form-elements)
+2. ❗️ Opened issue [#49](https://github.com/Matej-ch/portfolio/issues/49) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+3. 🎉 Merged PR [#301](https://github.com/Matej-ch/vue-small-projects/pull/301) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+4. 🎉 Merged PR [#16](https://github.com/Matej-ch/fractals/pull/16) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+5. 🎉 Merged PR [#49](https://github.com/Matej-ch/video-game-aggregator/pull/49) in [Matej-ch/video-game-aggregator](https://github.com/Matej-ch/video-game-aggregator)
 <!--END_SECTION:activity-->
 
 <br />
