@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Matej-ch/fractals/pull/17) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-2. ❗️ Opened issue [#94](https://github.com/Matej-ch/editable-form-elements/issues/94) in [Matej-ch/editable-form-elements](https://github.com/Matej-ch/editable-form-elements)
-3. ❗️ Opened issue [#49](https://github.com/Matej-ch/portfolio/issues/49) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
-4. 🎉 Merged PR [#301](https://github.com/Matej-ch/vue-small-projects/pull/301) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-5. 🎉 Merged PR [#16](https://github.com/Matej-ch/fractals/pull/16) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+1. 🎉 Merged PR [#19](https://github.com/Matej-ch/fractals/pull/19) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+2. 🎉 Merged PR [#17](https://github.com/Matej-ch/fractals/pull/17) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+3. ❗️ Opened issue [#94](https://github.com/Matej-ch/editable-form-elements/issues/94) in [Matej-ch/editable-form-elements](https://github.com/Matej-ch/editable-form-elements)
+4. ❗️ Opened issue [#49](https://github.com/Matej-ch/portfolio/issues/49) in [Matej-ch/portfolio](https://github.com/Matej-ch/portfolio)
+5. 🎉 Merged PR [#301](https://github.com/Matej-ch/vue-small-projects/pull/301) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
 <!--END_SECTION:activity-->
 
 <br />
