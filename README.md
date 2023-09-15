@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/Matej-ch/fractals/pull/44) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-2. 🎉 Merged PR [#43](https://github.com/Matej-ch/fractals/pull/43) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-3. 🎉 Merged PR [#42](https://github.com/Matej-ch/fractals/pull/42) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-4. 🎉 Merged PR [#41](https://github.com/Matej-ch/fractals/pull/41) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-5. 🎉 Merged PR [#39](https://github.com/Matej-ch/fractals/pull/39) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+1. 🎉 Merged PR [#45](https://github.com/Matej-ch/fractals/pull/45) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+2. 🎉 Merged PR [#44](https://github.com/Matej-ch/fractals/pull/44) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+3. 🎉 Merged PR [#43](https://github.com/Matej-ch/fractals/pull/43) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+4. 🎉 Merged PR [#42](https://github.com/Matej-ch/fractals/pull/42) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+5. 🎉 Merged PR [#41](https://github.com/Matej-ch/fractals/pull/41) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
 <!--END_SECTION:activity-->
 
 <br />
