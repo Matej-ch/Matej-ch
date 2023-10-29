@@ -41,11 +41,11 @@
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/Matej-ch/fractals/pull/50) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
-2. 🎉 Merged PR [#307](https://github.com/Matej-ch/vue-small-projects/pull/307) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
-3. 🎉 Merged PR [#110](https://github.com/Matej-ch/Minesweeper/pull/110) in [Matej-ch/Minesweeper](https://github.com/Matej-ch/Minesweeper)
-4. 🎉 Merged PR [#126](https://github.com/Matej-ch/pexeso-with-pictures/pull/126) in [Matej-ch/pexeso-with-pictures](https://github.com/Matej-ch/pexeso-with-pictures)
-5. 🎉 Merged PR [#171](https://github.com/Matej-ch/Hexagons/pull/171) in [Matej-ch/Hexagons](https://github.com/Matej-ch/Hexagons)
+1. 🎉 Merged PR [#308](https://github.com/Matej-ch/vue-small-projects/pull/308) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+2. 🎉 Merged PR [#309](https://github.com/Matej-ch/vue-small-projects/pull/309) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
+3. 🎉 Merged PR [#52](https://github.com/Matej-ch/fractals/pull/52) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+4. 🎉 Merged PR [#50](https://github.com/Matej-ch/fractals/pull/50) in [Matej-ch/fractals](https://github.com/Matej-ch/fractals)
+5. 🎉 Merged PR [#307](https://github.com/Matej-ch/vue-small-projects/pull/307) in [Matej-ch/vue-small-projects](https://github.com/Matej-ch/vue-small-projects)
 <!--END_SECTION:activity-->
 
 <br />
